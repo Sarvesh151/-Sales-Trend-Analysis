@@ -1,0 +1,801 @@
+Order ID,Product Name,Category,Brand,Price,Discount (%),Final Price,Rating,Number of Reviews,Seller Name,Order Date,Order Status,Payment Method,Customer Location,Quantity Sold
+ORD001,Gaming Console Adidas,Books,Adidas,15259,55,6866.55,4.6,1448,Brooks-Roth,16-09-2024,Delivered,Cash on Delivery,Chennai,10
+ORD002,LED TV Apple,Fashion,LG,13355,58,5609.1,4.1,87,Cooley LLC,16-04-2024,Processing,Credit Card,Jaipur,5
+ORD003,Washing Machine LG,Beauty,Philips,22852,28,16453.44,4.2,675,Jones LLC,08-08-2024,Delivered,Credit Card,Jaipur,7
+ORD004,Smartphone Puma,Electronics,Revlon,40415,13,35161.05,2.8,448,Rogers-Boyd,02-02-2024,Cancelled,UPI,Chennai,5
+ORD005,Running Shoes Puma,Toys,Adidas,26142,40,15685.2,2.2,632,Harris Group,11-11-2023,Shipped,Net Banking,Hyderabad,1
+ORD006,Gaming Console Nike,Electronics,LG,39366,49,20076.66,3.2,362,Villanueva-Booth,01-04-2024,Cancelled,Debit Card,Kolkata,7
+ORD007,Washing Machine Samsung,Appliances,Samsung,3942,31,2719.98,2.7,1257,"Campbell, Villanueva and Flores",20-04-2024,Cancelled,Amazon Pay,Delhi,4
+ORD008,Running Shoes Adidas,Toys,Puma,1266,15,1076.1,4.5,415,Garcia-Buck,13-03-2023,Processing,Net Banking,Hyderabad,1
+ORD009,Gaming Console Nike,Appliances,Samsung,7341,60,2936.4,2.7,1357,"Rodriguez, Hanna and Trujillo",22-08-2023,Shipped,Credit Card,Pune,4
+ORD010,LED TV Lenovo,Appliances,Amazon Basics,38676,8,35581.92,3.4,63,Thomas-Shaw,03-07-2023,Cancelled,Cash on Delivery,Mumbai,3
+ORD011,Washing Machine Philips,Beauty,Lenovo,8108,9,7378.28,2.9,1283,Wood-Strickland,02-02-2024,Processing,Credit Card,Bangalore,8
+ORD012,Laptop Amazon Basics,Grocery,Nike,32543,59,13342.63,4.0,613,Frazier-Rose,18-09-2023,Delivered,Debit Card,Mumbai,6
+ORD013,Perfume Puma,Books,Philips,46143,58,19380.06,2.6,918,Cohen Group,17-05-2024,Returned,UPI,Kolkata,8
+ORD014,LED TV Adidas,Grocery,Revlon,34373,39,20967.53,2.3,571,Pruitt-Bell,26-11-2024,Processing,Net Banking,Delhi,4
+ORD015,Gaming Console Lenovo,Sports,Adidas,12255,21,9681.45,3.9,582,"Smith, Smith and Lewis",14-06-2023,Delivered,Net Banking,Ahmedabad,2
+ORD016,Smartphone Lenovo,Fashion,Adidas,15986,14,13747.96,2.8,1055,Miller Group,31-03-2024,Returned,Credit Card,Pune,8
+ORD017,Running Shoes Puma,Grocery,Puma,36106,10,32495.4,4.7,332,Chandler Ltd,13-04-2023,Delivered,Debit Card,Kolkata,6
+ORD018,Washing Machine Adidas,Home Decor,Revlon,32437,51,15894.13,3.5,59,Jacobs-Moore,26-03-2024,Returned,Credit Card,Bangalore,3
+ORD019,Smartphone LG,Toys,Amazon Basics,31448,30,22013.6,3.2,1324,Howard PLC,20-11-2024,Shipped,Amazon Pay,Jaipur,9
+ORD020,Laptop Adidas,Appliances,Revlon,44415,53,20875.05,4.6,528,Mann Inc,30-05-2024,Shipped,Credit Card,Mumbai,1
+ORD021,Gaming Console Nike,Electronics,Lenovo,24238,65,8483.3,2.6,379,Reyes-Little,15-05-2024,Cancelled,Credit Card,Kolkata,6
+ORD022,Smartphone Amazon Basics,Toys,Samsung,36054,6,33890.76,3.9,295,Branch Ltd,18-07-2024,Shipped,Credit Card,Ahmedabad,6
+ORD023,Smartphone Nike,Sports,Philips,32714,21,25844.06,4.5,609,"Hatfield, Chandler and Fitzgerald",04-05-2024,Returned,Amazon Pay,Ahmedabad,3
+ORD024,Smartphone LG,Appliances,LG,4988,33,3341.96,4.9,568,Simon-Miller,06-09-2024,Returned,Cash on Delivery,Mumbai,1
+ORD025,Running Shoes Apple,Toys,Lenovo,35711,33,23926.37,2.0,325,"Campbell, Peterson and Stephens",20-10-2024,Shipped,Cash on Delivery,Bangalore,8
+ORD026,Smartphone Philips,Beauty,Lenovo,46055,23,35462.35,3.5,547,"Blake, Morris and Gibson",14-01-2025,Returned,Net Banking,Pune,2
+ORD027,Smartphone Apple,Sports,Adidas,46107,64,16598.52,4.1,159,"Cuevas, Rodriguez and Lopez",23-04-2024,Processing,Net Banking,Ahmedabad,9
+ORD028,Gaming Console Apple,Books,Lenovo,30945,65,10830.75,3.6,829,"Kelly, Davis and Moore",24-07-2023,Returned,Amazon Pay,Bangalore,7
+ORD029,Washing Machine Philips,Books,Lenovo,46912,17,38936.96,2.1,277,Wang-Johnson,25-02-2024,Delivered,Amazon Pay,Hyderabad,2
+ORD030,Washing Machine Apple,Fashion,Puma,12747,19,10325.07,4.5,194,"Gonzales, Joseph and Bates",23-10-2024,Processing,UPI,Lucknow,10
+ORD031,Laptop Revlon,Electronics,LG,15766,34,10405.56,2.7,1368,Mueller Ltd,01-12-2023,Delivered,UPI,Bangalore,4
+ORD032,Smartphone Apple,Appliances,LG,32218,30,22552.6,3.7,403,Allen-Floyd,28-07-2023,Shipped,Amazon Pay,Pune,9
+ORD033,Smartphone Philips,Grocery,Nike,9929,9,9035.39,2.5,1248,Allen-Rodriguez,04-11-2024,Processing,Net Banking,Bangalore,7
+ORD034,LED TV LG,Grocery,Adidas,9930,36,6355.2,4.5,889,Castillo-Jimenez,27-12-2023,Returned,UPI,Chennai,5
+ORD035,Gaming Console Samsung,Electronics,Puma,9731,41,5741.29,3.6,1411,"Anderson, Wolfe and Mcdonald",09-10-2024,Delivered,Amazon Pay,Delhi,6
+ORD036,Laptop Revlon,Books,Samsung,9444,58,3966.48,4.7,471,"Johnson, Matthews and Walker",03-09-2024,Delivered,Net Banking,Lucknow,2
+ORD037,Gaming Console Nike,Home Decor,Philips,32955,30,23068.5,3.3,1042,Coleman LLC,31-07-2023,Shipped,Cash on Delivery,Chennai,6
+ORD038,LED TV Puma,Books,Puma,39050,37,24601.5,2.4,1236,Mcpherson-Thomas,13-01-2025,Delivered,Credit Card,Ahmedabad,2
+ORD039,Washing Machine Lenovo,Grocery,Adidas,28520,29,20249.2,3.7,1398,Richmond PLC,21-11-2024,Returned,Cash on Delivery,Chennai,2
+ORD040,Smartphone Apple,Fashion,Apple,11650,33,7805.5,4.4,211,"Nguyen, Manning and Simmons",23-01-2024,Delivered,Net Banking,Pune,6
+ORD041,Laptop LG,Toys,Philips,13076,33,8760.92,2.1,796,"Gilbert, Fisher and Washington",02-08-2024,Cancelled,Credit Card,Hyderabad,1
+ORD042,Smartphone LG,Fashion,Adidas,39425,21,31145.75,2.8,1350,Glass-Odom,02-02-2025,Returned,Cash on Delivery,Bangalore,2
+ORD043,Gaming Console Philips,Grocery,Revlon,38529,30,26970.3,3.1,1274,"Golden, Schneider and Curry",20-09-2024,Cancelled,UPI,Delhi,1
+ORD044,Laptop Amazon Basics,Toys,Nike,21011,18,17229.02,4.2,1082,Smith Group,07-05-2023,Processing,Credit Card,Lucknow,2
+ORD045,Washing Machine Revlon,Grocery,Lenovo,43081,50,21540.5,2.3,31,"Mendoza, Robertson and Roberts",10-08-2024,Cancelled,Amazon Pay,Hyderabad,5
+ORD046,LED TV Philips,Electronics,Philips,47949,15,40756.65,4.5,611,"Hooper, Johnson and Reed",21-05-2023,Returned,Net Banking,Pune,7
+ORD047,Laptop Nike,Books,Puma,49603,5,47122.85,3.0,394,Kelley Inc,28-04-2024,Processing,Cash on Delivery,Delhi,9
+ORD048,LED TV Apple,Grocery,Adidas,29835,37,18796.05,4.2,1136,Payne Inc,24-07-2023,Returned,Amazon Pay,Hyderabad,9
+ORD049,Smartphone Lenovo,Beauty,Samsung,30256,69,9379.36,3.2,834,"Rodriguez, Romero and Long",19-05-2024,Shipped,Net Banking,Ahmedabad,10
+ORD050,Gaming Console Puma,Home Decor,Samsung,38233,40,22939.8,3.0,955,Williams-Curry,22-05-2024,Delivered,Cash on Delivery,Hyderabad,9
+ORD051,Washing Machine Revlon,Sports,Samsung,34281,17,28453.23,3.4,119,Weiss Group,25-01-2025,Processing,Cash on Delivery,Chennai,8
+ORD052,Running Shoes Lenovo,Appliances,Revlon,7657,25,5742.75,4.4,20,Mckay-Scott,25-11-2024,Processing,Credit Card,Bangalore,6
+ORD053,Washing Machine Adidas,Electronics,Samsung,20382,38,12636.84,2.0,1362,Johnson-Mcbride,12-05-2024,Returned,Amazon Pay,Mumbai,10
+ORD054,Laptop Nike,Toys,Adidas,26537,5,25210.15,4.7,818,"Garcia, Nelson and Johnson",08-09-2024,Cancelled,UPI,Kolkata,6
+ORD055,Washing Machine Puma,Toys,Samsung,22774,63,8426.38,3.7,35,"Logan, Stokes and Wiggins",18-12-2023,Shipped,UPI,Chennai,6
+ORD056,Gaming Console Revlon,Fashion,Revlon,27274,19,22091.94,4.4,953,Porter-Lee,17-06-2024,Processing,Cash on Delivery,Ahmedabad,5
+ORD057,Smartphone Lenovo,Electronics,Nike,48536,31,33489.84,4.2,1267,Bowers-Ramsey,06-03-2024,Processing,Debit Card,Kolkata,10
+ORD058,Gaming Console Samsung,Appliances,Lenovo,2416,12,2126.08,2.1,344,Martin PLC,16-07-2024,Cancelled,Amazon Pay,Bangalore,4
+ORD059,Washing Machine Nike,Home Decor,Lenovo,9988,12,8789.44,3.2,1441,"Garcia, Stout and Lopez",21-01-2025,Returned,Amazon Pay,Bangalore,6
+ORD060,Gaming Console Revlon,Fashion,Puma,39275,40,23565.0,4.5,287,"Schneider, Reese and Wright",22-03-2023,Cancelled,Net Banking,Mumbai,4
+ORD061,Washing Machine Amazon Basics,Appliances,Amazon Basics,5508,28,3965.76,2.8,293,"Sanders, Brennan and Thomas",07-06-2024,Shipped,Debit Card,Delhi,4
+ORD062,Running Shoes LG,Fashion,Amazon Basics,40667,35,26433.55,3.5,805,Lyons Group,06-02-2024,Delivered,Credit Card,Pune,3
+ORD063,Gaming Console Adidas,Fashion,Lenovo,40624,58,17062.08,4.7,542,Ryan-Jackson,18-04-2023,Returned,Cash on Delivery,Jaipur,3
+ORD064,Laptop Lenovo,Fashion,Samsung,17689,28,12736.08,3.3,1180,Wilson Ltd,17-07-2023,Cancelled,Amazon Pay,Mumbai,9
+ORD065,LED TV Revlon,Toys,Revlon,7220,63,2671.4,3.1,549,"Johnson, Hays and Warner",16-03-2024,Returned,Amazon Pay,Pune,9
+ORD066,Running Shoes Apple,Beauty,Samsung,39448,12,34714.24,2.3,651,Taylor Inc,02-01-2025,Delivered,UPI,Hyderabad,1
+ORD067,LED TV Lenovo,Beauty,Nike,8240,55,3708.0,2.3,1293,"Woods, Goodwin and Freeman",25-08-2024,Shipped,Amazon Pay,Bangalore,10
+ORD068,Smartphone Puma,Appliances,Apple,42852,40,25711.2,2.0,315,Fisher-Pineda,04-06-2024,Shipped,Amazon Pay,Ahmedabad,3
+ORD069,LED TV Revlon,Toys,Amazon Basics,8840,46,4773.6,3.1,1053,Pollard-White,29-10-2023,Returned,Credit Card,Chennai,10
+ORD070,Gaming Console Puma,Home Decor,Adidas,47160,50,23580.0,3.4,1363,Hammond-Bell,17-01-2024,Delivered,Debit Card,Hyderabad,8
+ORD071,Perfume LG,Electronics,Lenovo,41737,69,12938.47,2.1,1054,"Richards, Diaz and Terry",25-05-2023,Shipped,Net Banking,Bangalore,10
+ORD072,Running Shoes Nike,Sports,Amazon Basics,14127,49,7204.77,3.8,1374,Fox Inc,10-02-2024,Delivered,UPI,Ahmedabad,9
+ORD073,Running Shoes LG,Appliances,LG,38917,64,14010.12,4.9,1170,Clark Inc,31-08-2023,Returned,Debit Card,Chennai,10
+ORD074,Perfume Nike,Home Decor,Amazon Basics,26616,47,14106.48,3.6,1029,Gomez-Mercado,11-08-2024,Delivered,Amazon Pay,Lucknow,7
+ORD075,Running Shoes Lenovo,Electronics,Lenovo,20813,11,18523.57,3.5,1487,Brown-Ayala,16-08-2024,Delivered,Cash on Delivery,Delhi,4
+ORD076,Perfume Nike,Sports,Revlon,12633,42,7327.14,3.7,1279,Lewis-Young,25-11-2024,Shipped,Credit Card,Bangalore,4
+ORD077,Washing Machine Lenovo,Grocery,Puma,42679,67,14084.07,3.7,213,"Roman, Young and Aguilar",22-02-2024,Returned,Net Banking,Bangalore,10
+ORD078,Gaming Console Amazon Basics,Grocery,Adidas,38931,5,36984.45,2.8,1443,Brown-Hubbard,09-06-2024,Processing,UPI,Jaipur,8
+ORD079,Laptop Lenovo,Electronics,Amazon Basics,34052,34,22474.32,2.3,76,Stokes-Chavez,06-04-2024,Returned,Net Banking,Kolkata,3
+ORD080,Gaming Console Puma,Books,Revlon,46320,8,42614.4,4.6,1149,"Ware, Miller and Sanders",13-09-2024,Delivered,Debit Card,Mumbai,1
+ORD081,Perfume Philips,Sports,Amazon Basics,26269,9,23904.79,3.3,1340,"Ward, Dean and Williams",22-05-2024,Returned,Cash on Delivery,Kolkata,10
+ORD082,Smartphone Revlon,Grocery,Puma,48606,13,42287.22,4.2,371,"Fox, Petty and Black",10-05-2023,Shipped,Debit Card,Bangalore,2
+ORD083,Running Shoes Nike,Fashion,Nike,37235,46,20106.9,3.9,912,Green Group,14-01-2024,Delivered,Net Banking,Kolkata,3
+ORD084,Smartphone LG,Sports,Nike,37532,22,29274.96,4.4,1450,Taylor-Walter,16-03-2023,Shipped,Debit Card,Chennai,6
+ORD085,LED TV Apple,Books,Lenovo,46653,67,15395.49,4.6,801,Ford-Stephens,04-07-2023,Delivered,Net Banking,Mumbai,6
+ORD086,Gaming Console Samsung,Toys,Samsung,6771,52,3250.08,4.2,1477,Kelly PLC,04-03-2023,Cancelled,Net Banking,Delhi,4
+ORD087,Washing Machine Revlon,Books,Philips,26398,16,22174.32,2.6,196,Adams Ltd,08-05-2024,Returned,Net Banking,Pune,10
+ORD088,Washing Machine Adidas,Sports,Samsung,36316,66,12347.44,3.5,313,Carter-Harris,19-06-2023,Cancelled,Amazon Pay,Chennai,1
+ORD089,Smartphone Nike,Grocery,Amazon Basics,19390,59,7949.9,3.2,514,"Smith, Morgan and Cooper",25-03-2023,Returned,UPI,Lucknow,3
+ORD090,Smartphone Nike,Sports,Nike,45635,60,18254.0,3.8,455,King-Haas,15-03-2023,Returned,Debit Card,Chennai,7
+ORD091,LED TV Puma,Beauty,Samsung,42131,39,25699.91,3.3,879,Mcdaniel-Barajas,07-12-2024,Processing,Net Banking,Ahmedabad,3
+ORD092,Gaming Console Lenovo,Sports,Apple,17861,37,11252.43,4.4,1398,Burke Inc,27-04-2024,Processing,Debit Card,Pune,1
+ORD093,Running Shoes Nike,Beauty,Adidas,10906,14,9379.16,3.6,1238,Smith PLC,23-03-2024,Returned,Cash on Delivery,Pune,1
+ORD094,Laptop Philips,Appliances,Adidas,49355,68,15793.6,4.8,208,Frazier-Lam,26-04-2023,Returned,Debit Card,Ahmedabad,5
+ORD095,LED TV Amazon Basics,Beauty,Amazon Basics,18302,35,11896.3,2.4,1238,Jimenez-Arnold,04-09-2024,Delivered,Debit Card,Bangalore,2
+ORD096,Smartphone Apple,Appliances,Revlon,21565,17,17898.95,3.7,267,Lynch Group,14-12-2023,Processing,Cash on Delivery,Kolkata,10
+ORD097,Laptop Apple,Beauty,Adidas,37027,63,13699.99,3.6,80,Schmidt-Young,27-08-2024,Shipped,Debit Card,Kolkata,5
+ORD098,Laptop Lenovo,Grocery,Apple,20681,67,6824.73,4.1,1235,Gardner-Diaz,04-09-2023,Shipped,Credit Card,Lucknow,8
+ORD099,Smartphone Lenovo,Fashion,Apple,30340,48,15776.8,4.0,360,"Dixon, Branch and Holt",20-12-2023,Cancelled,UPI,Mumbai,6
+ORD100,Laptop Puma,Home Decor,Nike,49365,5,46896.75,5.0,105,Olson-Chan,21-06-2024,Delivered,Debit Card,Chennai,2
+ORD101,Perfume LG,Beauty,Nike,39335,36,25174.4,3.6,732,Walker-Knapp,10-09-2024,Shipped,Amazon Pay,Ahmedabad,9
+ORD102,LED TV Puma,Fashion,Apple,14837,12,13056.56,4.7,1269,Steele-Morgan,04-01-2024,Shipped,Debit Card,Mumbai,1
+ORD103,Smartphone Revlon,Sports,Amazon Basics,2142,69,664.02,4.9,351,Brandt-Washington,07-10-2023,Shipped,Credit Card,Ahmedabad,5
+ORD104,LED TV LG,Toys,Samsung,8921,60,3568.4,3.4,1121,Mullins Inc,18-02-2025,Shipped,UPI,Delhi,6
+ORD105,Running Shoes Apple,Home Decor,Puma,46108,23,35503.16,3.1,1309,Jacobs-Williamson,24-05-2024,Processing,Amazon Pay,Hyderabad,3
+ORD106,Washing Machine Nike,Toys,Lenovo,42109,62,16001.42,4.5,471,"Rice, Schroeder and Gray",22-12-2023,Delivered,Debit Card,Jaipur,5
+ORD107,Running Shoes Puma,Appliances,Lenovo,14900,32,10132.0,2.3,1269,"Leonard, Herring and Simmons",13-10-2024,Delivered,Cash on Delivery,Mumbai,2
+ORD108,Smartphone Puma,Toys,Amazon Basics,9374,28,6749.28,4.9,576,"Clark, Ellison and David",15-09-2024,Processing,Debit Card,Chennai,1
+ORD109,Perfume Lenovo,Sports,LG,49099,28,35351.28,4.4,1395,"Lewis, Dougherty and Rivera",04-10-2024,Processing,Cash on Delivery,Jaipur,9
+ORD110,Perfume LG,Beauty,Lenovo,41270,41,24349.3,3.5,1435,Wilson-Andersen,12-05-2024,Shipped,Debit Card,Ahmedabad,3
+ORD111,Laptop Nike,Beauty,Revlon,30990,54,14255.4,4.3,1495,"Daniels, Gonzalez and Arellano",12-11-2023,Cancelled,Debit Card,Lucknow,1
+ORD112,Washing Machine Adidas,Electronics,Samsung,5215,7,4849.95,4.3,1204,Lee LLC,14-02-2025,Delivered,Credit Card,Bangalore,10
+ORD113,Perfume Revlon,Beauty,Apple,7893,12,6945.84,3.2,1359,"Williams, Rich and Pruitt",25-05-2023,Returned,Cash on Delivery,Delhi,6
+ORD114,Running Shoes Adidas,Electronics,Adidas,48501,26,35890.74,2.4,929,"Smith, Warner and Bailey",20-06-2024,Processing,Debit Card,Mumbai,1
+ORD115,Smartphone Philips,Beauty,Nike,25446,49,12977.46,3.0,172,Kramer Ltd,02-08-2023,Processing,Amazon Pay,Bangalore,5
+ORD116,LED TV Lenovo,Electronics,Nike,34238,32,23281.84,2.0,1316,Miller Group,02-04-2023,Shipped,Credit Card,Lucknow,6
+ORD117,LED TV Amazon Basics,Fashion,Puma,15263,12,13431.44,4.1,1279,Coleman and Sons,13-09-2024,Processing,Net Banking,Hyderabad,7
+ORD118,Running Shoes Revlon,Electronics,Nike,23800,18,19516.0,3.8,55,Ponce PLC,25-08-2023,Processing,Net Banking,Pune,3
+ORD119,Gaming Console Amazon Basics,Books,Samsung,23357,58,9809.94,2.3,450,Case-Wheeler,15-05-2023,Delivered,Amazon Pay,Chennai,2
+ORD120,Running Shoes Adidas,Sports,Puma,49238,15,41852.3,2.7,991,Hernandez Group,25-12-2024,Returned,Net Banking,Jaipur,8
+ORD121,Running Shoes Nike,Beauty,Lenovo,42313,53,19887.11,3.2,304,Henderson-Mccarthy,05-06-2024,Delivered,UPI,Delhi,9
+ORD122,Laptop Puma,Fashion,Apple,34223,18,28062.86,4.2,915,"Johnston, Stewart and Mejia",20-11-2024,Returned,Amazon Pay,Ahmedabad,7
+ORD123,Running Shoes Amazon Basics,Electronics,Adidas,10563,5,10034.85,3.7,550,"Johnson, Wilson and Tate",19-08-2024,Delivered,Debit Card,Lucknow,5
+ORD124,Laptop Nike,Home Decor,Puma,32816,46,17720.64,4.0,1433,Cook-Frey,11-04-2024,Shipped,Debit Card,Lucknow,6
+ORD125,LED TV Revlon,Books,Puma,46826,65,16389.1,2.2,74,"Garner, Larsen and Cook",06-02-2025,Returned,Net Banking,Delhi,4
+ORD126,Perfume Philips,Fashion,LG,25884,63,9577.08,2.8,964,Finley and Sons,02-10-2023,Shipped,Cash on Delivery,Ahmedabad,10
+ORD127,Washing Machine Puma,Toys,Philips,8846,21,6988.34,4.2,36,Wall Inc,29-04-2023,Returned,Debit Card,Kolkata,4
+ORD128,Washing Machine Apple,Books,Lenovo,6589,51,3228.61,4.5,818,"Shields, Finley and Collins",20-01-2024,Shipped,Debit Card,Mumbai,3
+ORD129,Perfume Apple,Fashion,Amazon Basics,5952,50,2976.0,4.3,760,Reynolds Ltd,23-03-2023,Processing,UPI,Delhi,10
+ORD130,LED TV Amazon Basics,Electronics,Samsung,32939,13,28656.93,4.7,1106,Sanchez LLC,02-12-2024,Processing,Debit Card,Chennai,2
+ORD131,Washing Machine Lenovo,Appliances,LG,1527,46,824.58,4.3,496,"Cooke, Adams and Coleman",21-06-2023,Cancelled,Debit Card,Ahmedabad,4
+ORD132,Gaming Console Nike,Electronics,Revlon,16328,12,14368.64,2.4,392,Martin Group,11-12-2024,Delivered,Cash on Delivery,Pune,4
+ORD133,Washing Machine Nike,Books,Revlon,37406,12,32917.28,2.1,711,Cook-Patel,02-12-2024,Processing,Credit Card,Pune,3
+ORD134,Gaming Console LG,Fashion,Puma,48331,24,36731.56,4.6,1071,Simmons PLC,02-05-2023,Shipped,Amazon Pay,Chennai,1
+ORD135,Running Shoes Adidas,Toys,Apple,16611,22,12956.58,4.4,345,Burns Group,25-07-2023,Delivered,Net Banking,Jaipur,10
+ORD136,Gaming Console Philips,Fashion,Amazon Basics,19100,18,15662.0,4.3,41,Price-Hernandez,03-08-2023,Delivered,Net Banking,Pune,9
+ORD137,Smartphone LG,Fashion,Nike,12710,58,5338.2,3.1,1067,Dunn Inc,26-02-2025,Delivered,Net Banking,Kolkata,2
+ORD138,Laptop Amazon Basics,Books,Puma,47336,53,22247.92,4.9,855,Gaines and Sons,16-06-2024,Shipped,Cash on Delivery,Bangalore,4
+ORD139,Laptop Lenovo,Sports,Amazon Basics,21831,48,11352.12,4.2,330,"Brown, Lynn and Krueger",07-04-2023,Cancelled,Net Banking,Hyderabad,2
+ORD140,Perfume Lenovo,Home Decor,Nike,48729,57,20953.47,2.7,1445,Walsh Ltd,24-05-2023,Shipped,UPI,Jaipur,6
+ORD141,Laptop LG,Beauty,Philips,23992,5,22792.4,3.0,406,Cook and Sons,15-12-2023,Cancelled,Net Banking,Ahmedabad,8
+ORD142,Perfume Nike,Home Decor,Apple,30790,31,21245.1,3.2,1339,Bean-Bowman,15-03-2023,Delivered,Credit Card,Hyderabad,5
+ORD143,Perfume LG,Toys,Revlon,21077,5,20023.15,3.0,1489,"White, Marshall and Ross",11-07-2024,Returned,Cash on Delivery,Pune,5
+ORD144,Running Shoes Samsung,Books,Philips,32394,37,20408.22,2.6,1466,Johnson-Love,19-10-2024,Returned,Credit Card,Ahmedabad,10
+ORD145,Laptop Samsung,Grocery,LG,25349,38,15716.38,4.0,807,Leon Inc,15-03-2023,Shipped,Amazon Pay,Pune,3
+ORD146,Running Shoes Amazon Basics,Home Decor,Adidas,5509,36,3525.76,4.4,873,"Malone, Gardner and Jones",20-01-2024,Returned,Net Banking,Ahmedabad,9
+ORD147,LED TV Apple,Beauty,Amazon Basics,8953,59,3670.73,2.6,560,"Schultz, Williamson and Williams",09-04-2023,Shipped,Credit Card,Bangalore,7
+ORD148,Gaming Console Revlon,Electronics,Amazon Basics,36944,53,17363.68,3.1,839,Mclaughlin Group,15-09-2023,Cancelled,Debit Card,Ahmedabad,1
+ORD149,LED TV LG,Grocery,Nike,27207,22,21221.46,3.6,1053,"Roberson, Burke and Davidson",07-11-2024,Shipped,Cash on Delivery,Delhi,3
+ORD150,Smartphone Revlon,Home Decor,Apple,36374,43,20733.18,3.2,252,"Stephens, Lopez and Washington",06-08-2023,Shipped,Debit Card,Bangalore,4
+ORD151,LED TV Apple,Grocery,Apple,31850,9,28983.5,2.6,1377,Hill-Myers,22-10-2024,Delivered,Net Banking,Jaipur,2
+ORD152,Perfume Nike,Home Decor,Adidas,8211,36,5255.04,4.0,1013,"Sutton, Hayes and Smith",04-06-2023,Cancelled,Cash on Delivery,Pune,9
+ORD153,Perfume Samsung,Fashion,Adidas,38261,59,15687.01,4.2,922,Lee-Smith,08-06-2023,Cancelled,Net Banking,Kolkata,2
+ORD154,Running Shoes LG,Home Decor,Amazon Basics,2386,68,763.52,2.3,43,West-Campos,17-11-2023,Processing,Cash on Delivery,Ahmedabad,3
+ORD155,Perfume Amazon Basics,Toys,LG,45325,14,38979.5,2.8,1027,Petersen and Sons,29-10-2024,Processing,UPI,Kolkata,9
+ORD156,Gaming Console Lenovo,Grocery,Lenovo,45590,18,37383.8,4.9,1349,"Rivas, Garcia and Dorsey",08-09-2024,Processing,Cash on Delivery,Bangalore,3
+ORD157,Smartphone LG,Home Decor,Puma,12649,41,7462.91,3.3,580,Aguilar-Irwin,19-06-2024,Shipped,Debit Card,Pune,1
+ORD158,Laptop Adidas,Beauty,LG,23615,18,19364.3,4.9,1264,Adkins-Romero,03-12-2024,Delivered,Credit Card,Chennai,5
+ORD159,Smartphone Amazon Basics,Electronics,Nike,12947,41,7638.73,2.0,717,"Robinson, Weiss and Nicholson",19-04-2024,Returned,Amazon Pay,Mumbai,4
+ORD160,Laptop Nike,Fashion,LG,25617,36,16394.88,4.5,78,Williams-Weaver,07-06-2024,Delivered,Debit Card,Jaipur,2
+ORD161,Smartphone Apple,Books,Samsung,14631,41,8632.29,3.9,95,Jones and Sons,21-09-2024,Shipped,Credit Card,Delhi,8
+ORD162,Laptop Revlon,Home Decor,Nike,10078,66,3426.52,3.6,1242,Hernandez-Boone,14-12-2024,Cancelled,Amazon Pay,Pune,10
+ORD163,Perfume Revlon,Sports,Adidas,11839,18,9707.98,2.3,170,"Welch, Washington and Patrick",24-01-2025,Processing,Amazon Pay,Delhi,6
+ORD164,Smartphone Adidas,Books,Apple,31820,46,17182.8,2.3,338,Conrad-King,25-02-2024,Shipped,Net Banking,Delhi,1
+ORD165,Running Shoes Puma,Electronics,Lenovo,19272,61,7516.08,2.1,1189,Brown Group,02-03-2024,Returned,Net Banking,Jaipur,8
+ORD166,Running Shoes Nike,Fashion,Puma,37090,19,30042.9,4.1,1079,Miller-Mullen,16-05-2024,Returned,Amazon Pay,Jaipur,2
+ORD167,LED TV Lenovo,Books,Revlon,20824,64,7496.64,4.7,477,"Reeves, Hogan and Allen",20-12-2024,Shipped,Debit Card,Ahmedabad,8
+ORD168,Running Shoes Samsung,Beauty,Amazon Basics,5830,7,5421.9,3.1,479,"Davis, Rodriguez and Baker",16-02-2025,Delivered,Debit Card,Jaipur,4
+ORD169,Washing Machine Revlon,Books,Samsung,39768,28,28632.96,4.8,131,Davis and Sons,24-05-2023,Processing,UPI,Hyderabad,7
+ORD170,Running Shoes Amazon Basics,Grocery,Amazon Basics,27509,21,21732.11,4.9,63,"Mercer, Rodriguez and Dalton",05-10-2023,Delivered,Credit Card,Hyderabad,3
+ORD171,Washing Machine Revlon,Electronics,Puma,13632,18,11178.24,4.2,1091,Velazquez PLC,17-03-2024,Shipped,Cash on Delivery,Jaipur,5
+ORD172,Gaming Console Revlon,Electronics,Lenovo,2702,17,2242.66,4.1,1133,"Gould, Cook and Knapp",28-12-2024,Delivered,Cash on Delivery,Chennai,1
+ORD173,Washing Machine Nike,Appliances,Samsung,25728,18,21096.96,3.5,983,Williams-Silva,15-11-2024,Shipped,Net Banking,Chennai,5
+ORD174,Perfume Puma,Toys,LG,12894,61,5028.66,3.8,1222,James Group,30-01-2025,Shipped,Net Banking,Hyderabad,7
+ORD175,Laptop LG,Fashion,Amazon Basics,48298,52,23183.04,5.0,699,"Hughes, Green and Rasmussen",09-09-2023,Returned,UPI,Bangalore,3
+ORD176,Running Shoes Philips,Home Decor,Adidas,15662,42,9083.96,2.9,415,Anderson Ltd,13-10-2024,Cancelled,Amazon Pay,Mumbai,1
+ORD177,LED TV Revlon,Sports,Apple,48386,20,38708.8,4.9,873,"Vaughan, Osborn and Mejia",25-01-2024,Cancelled,Cash on Delivery,Bangalore,10
+ORD178,Running Shoes Samsung,Grocery,Puma,23075,67,7614.75,2.5,1301,"Phillips, Rios and Johnson",22-09-2024,Delivered,Credit Card,Jaipur,4
+ORD179,Smartphone Puma,Appliances,Nike,18022,17,14958.26,2.8,917,Glover-Morris,28-12-2024,Shipped,UPI,Bangalore,2
+ORD180,Laptop Samsung,Appliances,Lenovo,7164,39,4370.04,4.6,126,Oliver-Daniel,02-04-2024,Delivered,Cash on Delivery,Jaipur,10
+ORD181,Laptop Amazon Basics,Home Decor,Adidas,37330,13,32477.1,4.0,1240,"Gonzales, Martinez and Torres",13-05-2024,Delivered,Net Banking,Kolkata,7
+ORD182,Smartphone Samsung,Electronics,Puma,48504,5,46078.8,3.4,982,Barber Ltd,15-09-2023,Processing,Credit Card,Pune,4
+ORD183,LED TV Philips,Books,Puma,16451,67,5428.83,4.2,1423,Miranda-Jacobs,23-01-2025,Cancelled,Cash on Delivery,Mumbai,3
+ORD184,Washing Machine LG,Sports,Samsung,8089,36,5176.96,4.4,398,"Baker, Clayton and Johnston",20-07-2023,Shipped,UPI,Chennai,9
+ORD185,Perfume Samsung,Books,Revlon,45973,59,18848.93,2.7,1297,Rogers and Sons,03-06-2024,Shipped,Credit Card,Lucknow,3
+ORD186,Washing Machine Lenovo,Home Decor,Lenovo,25236,56,11103.84,3.5,337,Castro Group,15-12-2024,Returned,UPI,Kolkata,6
+ORD187,Gaming Console Philips,Sports,Samsung,3427,66,1165.18,4.2,525,Hale Inc,20-09-2024,Delivered,Debit Card,Bangalore,5
+ORD188,Running Shoes Revlon,Grocery,Puma,22870,13,19896.9,3.2,1487,"Martin, Rose and Schmidt",25-05-2024,Returned,Debit Card,Hyderabad,2
+ORD189,LED TV Puma,Fashion,Amazon Basics,17127,12,15071.76,3.5,1234,"Ward, Young and Green",13-06-2023,Returned,Debit Card,Lucknow,8
+ORD190,Washing Machine Lenovo,Electronics,Puma,42674,12,37553.12,4.5,739,Harris-Wells,05-05-2023,Returned,Cash on Delivery,Jaipur,7
+ORD191,Perfume Adidas,Fashion,Philips,23786,27,17363.78,3.3,123,"Rivas, Horton and Dean",05-09-2024,Returned,Amazon Pay,Hyderabad,7
+ORD192,Washing Machine Nike,Books,Nike,44969,11,40022.41,4.7,342,Williams-Allen,28-02-2024,Delivered,Amazon Pay,Delhi,4
+ORD193,Running Shoes Adidas,Electronics,Samsung,12886,52,6185.28,3.7,1129,Shannon LLC,15-04-2024,Cancelled,Credit Card,Bangalore,10
+ORD194,Running Shoes Amazon Basics,Books,Samsung,6610,65,2313.5,3.9,1456,"Reilly, Hughes and Elliott",25-04-2024,Delivered,Debit Card,Hyderabad,6
+ORD195,LED TV Philips,Toys,Nike,31181,57,13407.83,2.9,59,Mccarthy Group,13-08-2023,Delivered,Credit Card,Ahmedabad,4
+ORD196,LED TV Nike,Electronics,Puma,47631,41,28102.29,4.3,1102,Nichols-Miller,08-07-2024,Shipped,Amazon Pay,Ahmedabad,3
+ORD197,Smartphone Samsung,Electronics,Puma,27564,27,20121.72,4.5,1243,Moore-Avila,05-04-2024,Shipped,Debit Card,Chennai,4
+ORD198,Washing Machine Nike,Fashion,Apple,3065,22,2390.7,3.3,1356,Robinson-Peterson,03-10-2024,Cancelled,Debit Card,Bangalore,5
+ORD199,Smartphone LG,Appliances,Samsung,23321,20,18656.8,2.8,259,"Johnson, Rogers and Franco",23-05-2023,Shipped,Debit Card,Mumbai,10
+ORD200,Perfume Nike,Beauty,Revlon,7170,43,4086.9,3.2,957,Scott-Welch,10-12-2023,Processing,Cash on Delivery,Bangalore,4
+ORD201,LED TV LG,Toys,Apple,21508,13,18711.96,3.9,1391,Arias LLC,02-01-2024,Shipped,Cash on Delivery,Hyderabad,3
+ORD202,Washing Machine LG,Sports,Philips,28426,29,20182.46,2.0,810,"Davis, Moore and Vega",29-12-2024,Delivered,Amazon Pay,Ahmedabad,8
+ORD203,Running Shoes Puma,Sports,Philips,2192,22,1709.76,4.7,854,Zhang PLC,15-07-2023,Returned,Debit Card,Lucknow,6
+ORD204,Perfume Adidas,Toys,Lenovo,34362,64,12370.32,3.5,54,Franklin-Escobar,07-09-2024,Returned,Net Banking,Hyderabad,10
+ORD205,Gaming Console Apple,Appliances,Revlon,38360,48,19947.2,3.0,1273,Garcia Inc,04-02-2025,Delivered,Cash on Delivery,Pune,4
+ORD206,Laptop Amazon Basics,Grocery,Lenovo,46995,34,31016.7,3.8,936,Martin-Love,08-11-2023,Delivered,Cash on Delivery,Delhi,3
+ORD207,Smartphone Amazon Basics,Beauty,Amazon Basics,26219,42,15207.02,3.3,14,Hickman-Berg,29-11-2023,Delivered,UPI,Mumbai,4
+ORD208,Running Shoes Samsung,Home Decor,Revlon,24168,32,16434.24,2.9,529,Maldonado-Miller,14-09-2024,Processing,Cash on Delivery,Kolkata,3
+ORD209,LED TV Adidas,Beauty,Nike,33258,60,13303.2,3.6,396,"Petersen, Parker and Johnston",13-02-2024,Returned,UPI,Jaipur,2
+ORD210,Running Shoes Amazon Basics,Grocery,Revlon,23644,41,13949.96,2.3,913,Williams LLC,05-09-2023,Delivered,UPI,Hyderabad,2
+ORD211,Perfume Lenovo,Beauty,Philips,15279,55,6875.55,4.1,150,Buck Ltd,12-01-2025,Shipped,Amazon Pay,Pune,8
+ORD212,Smartphone Revlon,Appliances,Samsung,36518,35,23736.7,3.7,894,Santiago-Ramirez,03-09-2024,Processing,Amazon Pay,Mumbai,10
+ORD213,Running Shoes Amazon Basics,Fashion,Amazon Basics,39028,13,33954.36,3.5,947,Morris PLC,17-12-2024,Processing,Credit Card,Lucknow,5
+ORD214,Smartphone Revlon,Toys,Amazon Basics,27373,68,8759.36,4.6,781,Lamb-Martinez,10-01-2024,Cancelled,Cash on Delivery,Kolkata,4
+ORD215,Washing Machine Philips,Grocery,Nike,16288,58,6840.96,3.7,1433,Campbell Ltd,02-01-2025,Shipped,Cash on Delivery,Kolkata,1
+ORD216,Gaming Console Apple,Home Decor,Amazon Basics,30596,13,26618.52,2.1,1018,"Wagner, Stokes and Robinson",27-03-2024,Processing,Amazon Pay,Hyderabad,9
+ORD217,LED TV Puma,Electronics,LG,18345,55,8255.25,4.7,128,Delgado-Luna,02-11-2024,Delivered,Net Banking,Lucknow,8
+ORD218,Washing Machine Apple,Home Decor,Puma,12210,11,10866.9,4.2,832,"Turner, Moore and Davis",22-07-2024,Cancelled,Credit Card,Bangalore,2
+ORD219,Laptop LG,Beauty,Apple,10763,58,4520.46,2.2,1367,Lopez Group,04-09-2023,Processing,Credit Card,Lucknow,6
+ORD220,Gaming Console Nike,Grocery,Revlon,40685,56,17901.4,3.9,255,Lee Ltd,27-03-2024,Processing,Debit Card,Bangalore,4
+ORD221,Running Shoes Apple,Appliances,Apple,10592,7,9850.56,4.9,514,Gregory-Lewis,01-05-2024,Delivered,Net Banking,Pune,6
+ORD222,Washing Machine Nike,Sports,Puma,20943,27,15288.39,2.1,1395,Sims PLC,09-01-2025,Delivered,Net Banking,Jaipur,10
+ORD223,Running Shoes LG,Beauty,Amazon Basics,29301,64,10548.36,5.0,634,"Cardenas, Ryan and Fowler",27-07-2024,Delivered,Amazon Pay,Ahmedabad,9
+ORD224,Laptop Nike,Electronics,Revlon,11557,70,3467.1,2.1,678,Beard and Sons,01-07-2024,Cancelled,Credit Card,Hyderabad,7
+ORD225,Gaming Console Amazon Basics,Fashion,LG,7389,31,5098.41,2.6,883,Brady Inc,12-03-2023,Processing,Amazon Pay,Jaipur,4
+ORD226,Gaming Console Puma,Appliances,Revlon,2775,16,2331.0,3.5,522,Medina LLC,14-10-2023,Returned,Credit Card,Lucknow,3
+ORD227,Running Shoes Revlon,Books,Adidas,5369,22,4187.82,2.2,985,Cunningham PLC,01-12-2024,Processing,Cash on Delivery,Jaipur,6
+ORD228,Smartphone Adidas,Grocery,Adidas,39975,59,16389.75,2.5,1411,"Aguilar, Bass and Poole",04-03-2024,Cancelled,Credit Card,Pune,5
+ORD229,Smartphone Apple,Home Decor,LG,34636,51,16971.64,2.2,91,Martin Ltd,26-07-2023,Cancelled,Credit Card,Ahmedabad,1
+ORD230,Running Shoes Apple,Appliances,Lenovo,13816,14,11881.76,3.4,294,Moyer-Lee,04-01-2025,Shipped,UPI,Jaipur,1
+ORD231,Perfume Samsung,Sports,Lenovo,20882,32,14199.76,4.6,921,Wyatt and Sons,31-03-2024,Shipped,Cash on Delivery,Lucknow,3
+ORD232,Smartphone Revlon,Books,Samsung,34328,54,15790.88,4.8,237,Wade LLC,13-11-2023,Cancelled,Cash on Delivery,Chennai,4
+ORD233,Smartphone Adidas,Books,Revlon,12705,44,7114.8,2.1,1051,Smith and Sons,22-03-2023,Processing,UPI,Delhi,7
+ORD234,Washing Machine Adidas,Sports,Lenovo,36042,19,29194.02,3.0,354,"Goodwin, Jackson and Joseph",20-02-2025,Returned,UPI,Lucknow,3
+ORD235,Running Shoes Revlon,Electronics,Nike,42784,32,29093.12,2.3,444,Newton-Morris,06-11-2024,Processing,Credit Card,Chennai,9
+ORD236,Perfume Puma,Beauty,LG,8052,23,6200.04,4.7,300,"Miller, Baker and Wallace",09-08-2023,Delivered,Net Banking,Chennai,6
+ORD237,Washing Machine Revlon,Toys,Puma,35101,54,16146.46,3.9,1452,"Mckinney, Hughes and Walter",23-03-2024,Shipped,Net Banking,Mumbai,1
+ORD238,Running Shoes Nike,Beauty,Samsung,35307,70,10592.1,3.8,1050,Mays-Mullen,07-06-2024,Returned,Debit Card,Delhi,3
+ORD239,Washing Machine LG,Beauty,Adidas,18820,60,7528.0,4.7,221,Griffin LLC,06-02-2024,Processing,Amazon Pay,Pune,10
+ORD240,Running Shoes Amazon Basics,Beauty,Nike,18751,24,14250.76,2.5,1125,Sanders-Obrien,12-03-2023,Cancelled,Credit Card,Lucknow,5
+ORD241,Smartphone Lenovo,Fashion,Philips,45617,35,29651.05,4.1,964,Buchanan-Becker,02-08-2024,Cancelled,Net Banking,Mumbai,8
+ORD242,Smartphone Puma,Beauty,Amazon Basics,2132,52,1023.36,3.0,58,"Kirk, Mayer and King",30-11-2024,Shipped,Net Banking,Delhi,5
+ORD243,LED TV Revlon,Grocery,Philips,5674,27,4142.02,2.9,1238,Colon-Smith,16-08-2024,Processing,Credit Card,Kolkata,2
+ORD244,LED TV Lenovo,Home Decor,Adidas,39481,34,26057.46,3.3,867,Kelley and Sons,05-11-2023,Cancelled,Amazon Pay,Ahmedabad,6
+ORD245,Washing Machine Samsung,Beauty,Puma,22763,11,20259.07,2.7,1279,"Mitchell, Long and Cohen",09-03-2024,Delivered,Net Banking,Ahmedabad,4
+ORD246,Laptop Philips,Home Decor,Amazon Basics,24082,67,7947.06,3.7,1139,Estes Ltd,16-04-2023,Delivered,Debit Card,Pune,1
+ORD247,Perfume Revlon,Toys,Apple,15287,68,4891.84,4.1,1471,Ray-Ruiz,12-12-2024,Delivered,Cash on Delivery,Hyderabad,1
+ORD248,Smartphone Nike,Books,Amazon Basics,44745,31,30874.05,2.2,479,Lopez Inc,03-08-2024,Shipped,Cash on Delivery,Ahmedabad,10
+ORD249,Smartphone Revlon,Grocery,Revlon,10142,68,3245.44,3.8,764,"Powers, Mann and Webb",15-12-2023,Delivered,Net Banking,Hyderabad,9
+ORD250,Perfume Apple,Sports,Nike,10744,69,3330.64,4.5,812,Schroeder-Wang,17-08-2024,Delivered,Amazon Pay,Chennai,2
+ORD251,Smartphone Nike,Books,Philips,48349,9,43997.59,2.4,1414,Huang-Wade,23-12-2023,Processing,Net Banking,Lucknow,5
+ORD252,LED TV Philips,Beauty,Revlon,15206,61,5930.34,2.5,1486,"Wright, Sanders and Baldwin",10-07-2024,Processing,Cash on Delivery,Bangalore,2
+ORD253,Gaming Console Samsung,Electronics,LG,30661,50,15330.5,2.1,1140,Woods-Rangel,03-12-2023,Processing,Net Banking,Delhi,3
+ORD254,LED TV Lenovo,Books,Samsung,7030,32,4780.4,4.6,711,Kaiser-Ward,12-12-2023,Shipped,Cash on Delivery,Hyderabad,6
+ORD255,Laptop Nike,Electronics,Puma,10955,58,4601.1,4.3,282,"Moore, Flores and Wright",31-10-2023,Shipped,Debit Card,Pune,7
+ORD256,LED TV Amazon Basics,Beauty,Lenovo,4279,36,2738.56,3.1,55,"Jones, Stewart and Ochoa",11-04-2024,Processing,Amazon Pay,Chennai,6
+ORD257,Gaming Console Nike,Appliances,Puma,3959,58,1662.78,4.4,429,Wilson and Sons,26-02-2024,Processing,Net Banking,Pune,2
+ORD258,Washing Machine Philips,Beauty,Revlon,12945,21,10226.55,4.9,684,Rice Inc,07-05-2024,Returned,Cash on Delivery,Bangalore,6
+ORD259,Gaming Console Amazon Basics,Home Decor,Revlon,36573,38,22675.26,2.2,295,Brown Ltd,01-07-2023,Cancelled,Amazon Pay,Hyderabad,10
+ORD260,Washing Machine Puma,Books,Revlon,20412,69,6327.72,3.1,489,Collins-Williams,03-09-2024,Cancelled,Cash on Delivery,Delhi,1
+ORD261,Perfume Apple,Beauty,Philips,46988,14,40409.68,5.0,373,Wagner PLC,24-03-2023,Shipped,Credit Card,Lucknow,4
+ORD262,Perfume Lenovo,Toys,Apple,12478,45,6862.9,4.6,466,Curry-Clark,28-03-2024,Shipped,Amazon Pay,Kolkata,2
+ORD263,Gaming Console Samsung,Beauty,Philips,35055,12,30848.4,4.7,300,Jackson LLC,31-01-2025,Processing,Debit Card,Delhi,2
+ORD264,LED TV Amazon Basics,Books,Revlon,28926,67,9545.58,4.2,228,Rivera-Barron,14-01-2025,Processing,Debit Card,Lucknow,3
+ORD265,Smartphone Apple,Grocery,Revlon,32052,58,13461.84,3.9,838,Wolf and Sons,17-04-2023,Delivered,UPI,Mumbai,8
+ORD266,Perfume LG,Home Decor,Nike,6647,51,3257.03,4.6,402,Matthews-Montes,11-05-2024,Returned,Cash on Delivery,Chennai,6
+ORD267,Running Shoes LG,Beauty,Apple,34614,31,23883.66,3.6,676,Nelson-Turner,06-06-2024,Delivered,Net Banking,Delhi,10
+ORD268,Smartphone Puma,Appliances,Samsung,2697,63,997.89,2.8,910,Mccarthy LLC,25-01-2025,Cancelled,Debit Card,Lucknow,3
+ORD269,Running Shoes Philips,Fashion,Puma,42820,47,22694.6,4.2,290,White-Hall,07-04-2023,Cancelled,Net Banking,Hyderabad,3
+ORD270,Gaming Console Puma,Fashion,Adidas,32470,26,24027.8,2.3,716,Anderson-Sexton,30-05-2023,Processing,UPI,Kolkata,10
+ORD271,Laptop LG,Grocery,Lenovo,1115,62,423.7,2.4,711,"Hill, Moses and Scott",22-11-2024,Delivered,Amazon Pay,Kolkata,5
+ORD272,Running Shoes Philips,Toys,Apple,41435,16,34805.4,4.8,652,Melton-Boyer,10-09-2023,Processing,Net Banking,Lucknow,4
+ORD273,LED TV Lenovo,Books,Nike,19866,40,11919.6,2.7,1294,Gill-Carpenter,21-04-2024,Delivered,Credit Card,Hyderabad,1
+ORD274,Smartphone LG,Grocery,Apple,45148,9,41084.68,4.2,902,Lawson-Melendez,14-06-2023,Delivered,UPI,Hyderabad,7
+ORD275,Perfume Apple,Home Decor,Lenovo,8444,70,2533.2,3.4,195,"Brooks, Roman and Olson",17-02-2024,Processing,Debit Card,Lucknow,3
+ORD276,Laptop LG,Toys,Nike,38566,46,20825.64,2.3,81,Madden Inc,02-05-2024,Processing,Cash on Delivery,Bangalore,10
+ORD277,Washing Machine Lenovo,Books,Amazon Basics,33775,36,21616.0,5.0,1184,"Owens, Myers and Carter",06-05-2024,Returned,Debit Card,Jaipur,3
+ORD278,Smartphone Adidas,Grocery,Apple,23321,25,17490.75,3.6,1477,Blake-Winters,06-11-2023,Delivered,Credit Card,Chennai,3
+ORD279,Running Shoes Samsung,Beauty,Revlon,44906,42,26045.48,4.6,1145,Pham and Sons,30-07-2024,Cancelled,Credit Card,Bangalore,8
+ORD280,Gaming Console Revlon,Beauty,Revlon,14309,19,11590.29,2.9,235,Moore Group,03-01-2024,Shipped,UPI,Lucknow,5
+ORD281,Smartphone Samsung,Sports,Amazon Basics,23875,21,18861.25,3.2,113,Fernandez-Hines,07-08-2024,Delivered,Credit Card,Delhi,2
+ORD282,Gaming Console Adidas,Appliances,Puma,11435,64,4116.6,3.4,583,"Harmon, Jones and Reese",02-04-2023,Delivered,Debit Card,Mumbai,8
+ORD283,Gaming Console Puma,Books,Amazon Basics,28928,5,27481.6,3.3,1451,Salinas PLC,19-05-2024,Processing,Amazon Pay,Bangalore,10
+ORD284,Running Shoes Revlon,Sports,Philips,13483,47,7145.99,2.1,743,Campbell and Sons,04-06-2023,Delivered,Net Banking,Kolkata,1
+ORD285,Running Shoes Puma,Appliances,Adidas,39049,33,26162.83,2.2,1040,Cook-Erickson,14-03-2023,Returned,Credit Card,Hyderabad,8
+ORD286,LED TV Samsung,Sports,Nike,17881,49,9119.31,2.3,61,Huffman-Doyle,03-09-2024,Cancelled,Net Banking,Pune,10
+ORD287,Running Shoes Nike,Beauty,LG,37369,57,16068.67,2.4,638,Beasley-Rojas,25-02-2025,Processing,Net Banking,Bangalore,10
+ORD288,Laptop Samsung,Fashion,Adidas,36993,7,34403.49,4.2,1045,Contreras-Charles,24-06-2024,Returned,Amazon Pay,Pune,4
+ORD289,Washing Machine Adidas,Books,Philips,49246,64,17728.56,2.9,1359,Chapman and Sons,10-10-2024,Shipped,Amazon Pay,Chennai,4
+ORD290,LED TV Puma,Appliances,Nike,10800,67,3564.0,3.6,205,"Richardson, Terry and Watts",22-12-2024,Shipped,Amazon Pay,Kolkata,6
+ORD291,LED TV Nike,Sports,Amazon Basics,32593,20,26074.4,3.1,66,Kim Inc,07-12-2024,Processing,Debit Card,Delhi,8
+ORD292,Laptop Nike,Books,Adidas,26444,41,15601.96,4.6,244,Bailey-Dorsey,04-02-2024,Processing,Cash on Delivery,Delhi,7
+ORD293,Gaming Console Revlon,Toys,Philips,29998,17,24898.34,4.6,1189,Robinson-Jimenez,15-09-2023,Processing,Cash on Delivery,Ahmedabad,3
+ORD294,Washing Machine Lenovo,Appliances,Philips,47143,13,41014.41,4.7,1026,Payne and Sons,08-11-2024,Delivered,Amazon Pay,Mumbai,2
+ORD295,Washing Machine Philips,Electronics,Amazon Basics,2361,36,1511.04,4.6,724,Vasquez-Woods,08-09-2024,Cancelled,Debit Card,Pune,3
+ORD296,Gaming Console Philips,Beauty,Puma,11203,50,5601.5,4.5,973,Munoz and Sons,18-01-2025,Shipped,UPI,Chennai,10
+ORD297,Gaming Console LG,Electronics,Amazon Basics,26080,15,22168.0,3.6,1163,Holland-Rodriguez,03-07-2024,Returned,Net Banking,Ahmedabad,5
+ORD298,Gaming Console Philips,Home Decor,Puma,32452,9,29531.32,2.5,382,"Lester, Mcgee and Donovan",08-03-2023,Returned,UPI,Jaipur,8
+ORD299,Gaming Console Amazon Basics,Fashion,Lenovo,31246,31,21559.74,3.9,1151,Miller-Miller,07-06-2023,Cancelled,Cash on Delivery,Pune,4
+ORD300,Gaming Console Nike,Home Decor,Revlon,3299,16,2771.16,3.7,1249,Ryan-Mckinney,24-10-2024,Delivered,Credit Card,Mumbai,10
+ORD301,Perfume Revlon,Electronics,Nike,13180,27,9621.4,2.0,257,Doyle PLC,28-03-2024,Shipped,Cash on Delivery,Mumbai,1
+ORD302,Running Shoes LG,Home Decor,Puma,42859,24,32572.84,2.6,257,"Dunn, Cooper and Johnston",13-08-2024,Processing,Debit Card,Jaipur,5
+ORD303,LED TV Revlon,Books,Lenovo,37276,43,21247.32,2.5,864,Smith-Garza,19-08-2023,Returned,UPI,Bangalore,6
+ORD304,Perfume Philips,Beauty,Samsung,7530,7,7002.9,3.9,1201,"Jones, Weaver and Allen",14-05-2024,Cancelled,Debit Card,Mumbai,9
+ORD305,Smartphone Philips,Toys,Puma,9168,37,5775.84,3.1,121,"Roberts, Jackson and Peters",07-10-2023,Cancelled,UPI,Chennai,4
+ORD306,Laptop Revlon,Appliances,Nike,35538,8,32694.96,2.2,1050,"Malone, Schmidt and Haney",15-08-2024,Processing,Credit Card,Mumbai,1
+ORD307,Laptop LG,Home Decor,Puma,42942,69,13312.02,4.6,504,"Wilcox, Watson and Torres",13-12-2024,Cancelled,UPI,Lucknow,2
+ORD308,Laptop Philips,Home Decor,Apple,23366,41,13785.94,4.3,1347,Haas and Sons,28-08-2023,Returned,Cash on Delivery,Pune,6
+ORD309,Laptop LG,Beauty,Philips,20601,49,10506.51,3.8,34,Lee-Hood,18-03-2023,Delivered,Debit Card,Mumbai,8
+ORD310,Perfume Nike,Grocery,Revlon,23958,23,18447.66,2.6,659,"White, Buck and Williams",14-09-2024,Shipped,UPI,Hyderabad,5
+ORD311,Gaming Console Adidas,Home Decor,Nike,17903,12,15754.64,2.9,891,"Werner, Hendrix and Turner",08-09-2024,Delivered,Net Banking,Ahmedabad,3
+ORD312,Laptop Apple,Beauty,Revlon,47210,26,34935.4,4.9,605,Allen-Davis,02-10-2023,Shipped,Credit Card,Ahmedabad,10
+ORD313,Gaming Console Adidas,Fashion,Apple,7121,10,6408.9,3.8,822,Mason-Cross,13-12-2023,Shipped,Credit Card,Bangalore,9
+ORD314,Smartphone Adidas,Appliances,Lenovo,20750,56,9130.0,2.3,1381,Coleman-Jones,20-06-2023,Returned,Debit Card,Jaipur,2
+ORD315,Laptop Nike,Beauty,Lenovo,29939,22,23352.42,3.7,268,Evans Ltd,07-04-2023,Cancelled,Net Banking,Jaipur,9
+ORD316,Gaming Console Apple,Books,Philips,6926,28,4986.72,4.4,1384,Beck LLC,24-02-2024,Delivered,Amazon Pay,Delhi,3
+ORD317,Perfume Philips,Beauty,LG,20306,37,12792.78,2.8,678,Benton-Kelley,07-09-2024,Returned,Debit Card,Kolkata,9
+ORD318,Perfume Revlon,Beauty,Samsung,17660,42,10242.8,4.1,303,Floyd PLC,15-10-2023,Returned,UPI,Pune,4
+ORD319,Laptop Revlon,Beauty,Apple,42951,61,16750.89,3.5,245,"Sullivan, Moore and Faulkner",21-07-2024,Processing,Amazon Pay,Kolkata,5
+ORD320,Perfume Nike,Toys,Nike,41168,21,32522.72,4.2,113,Griffin-Ruiz,09-08-2023,Cancelled,Net Banking,Lucknow,6
+ORD321,LED TV Adidas,Home Decor,Lenovo,38121,55,17154.45,3.3,1029,"Morton, Perez and Bridges",05-02-2024,Shipped,UPI,Ahmedabad,8
+ORD322,Running Shoes Philips,Fashion,LG,18666,27,13626.18,2.6,794,"Bridges, Hill and Martin",19-05-2024,Returned,Amazon Pay,Pune,7
+ORD323,LED TV Philips,Toys,Revlon,9651,32,6562.68,3.1,1180,Brown and Sons,13-05-2024,Cancelled,UPI,Delhi,9
+ORD324,Running Shoes Puma,Home Decor,Puma,33760,18,27683.2,3.5,429,"Villarreal, Mcbride and Ferguson",03-09-2024,Shipped,UPI,Chennai,9
+ORD325,Smartphone Revlon,Grocery,Amazon Basics,29811,14,25637.46,3.0,191,Guerrero Ltd,27-03-2023,Processing,Debit Card,Jaipur,5
+ORD326,LED TV Lenovo,Books,Revlon,47498,28,34198.56,2.5,1020,Rhodes-Meyer,18-07-2023,Processing,UPI,Lucknow,8
+ORD327,Smartphone Philips,Electronics,LG,30718,62,11672.84,2.9,199,Sutton-Thompson,02-08-2023,Returned,Net Banking,Bangalore,7
+ORD328,Smartphone Lenovo,Sports,Samsung,6595,68,2110.4,2.1,1311,York-Jones,17-05-2024,Processing,Cash on Delivery,Chennai,6
+ORD329,Gaming Console Lenovo,Books,Puma,8455,67,2790.15,3.7,438,Warner Inc,05-03-2024,Returned,Cash on Delivery,Pune,5
+ORD330,Smartphone Apple,Beauty,Amazon Basics,43255,29,30711.05,4.2,1340,Evans-Atkins,25-09-2023,Shipped,Credit Card,Jaipur,1
+ORD331,Running Shoes Apple,Toys,Philips,2918,53,1371.46,2.3,1486,Huang-Mcdonald,11-04-2023,Delivered,Debit Card,Jaipur,8
+ORD332,Running Shoes Lenovo,Grocery,Samsung,3955,17,3282.65,3.1,1148,Lambert-Lee,28-06-2023,Cancelled,Debit Card,Chennai,10
+ORD333,Washing Machine Revlon,Electronics,Puma,39799,14,34227.14,2.4,930,Leonard-Mcdonald,17-05-2024,Delivered,Cash on Delivery,Delhi,1
+ORD334,Running Shoes Amazon Basics,Grocery,Lenovo,9823,36,6286.72,4.6,430,Johnson-Curtis,10-05-2023,Delivered,UPI,Lucknow,10
+ORD335,Laptop Nike,Appliances,Apple,26976,70,8092.8,4.7,1159,Hall Inc,16-01-2025,Cancelled,Cash on Delivery,Jaipur,5
+ORD336,LED TV Philips,Grocery,Philips,5301,44,2968.56,3.2,651,"Maxwell, Mcgrath and Stuart",14-08-2023,Shipped,UPI,Lucknow,2
+ORD337,Washing Machine Adidas,Electronics,LG,3914,44,2191.84,4.8,968,"Black, Walton and Brown",17-04-2023,Cancelled,Debit Card,Lucknow,6
+ORD338,Perfume Revlon,Home Decor,Samsung,38980,11,34692.2,4.3,337,Hunt Group,01-12-2023,Shipped,UPI,Hyderabad,3
+ORD339,Perfume Puma,Sports,Samsung,49886,31,34421.34,2.4,200,Carroll Inc,17-10-2023,Processing,Amazon Pay,Ahmedabad,4
+ORD340,Smartphone LG,Grocery,Lenovo,5570,35,3620.5,2.9,536,"Diaz, Holt and Miller",30-07-2023,Delivered,Net Banking,Jaipur,4
+ORD341,Washing Machine Lenovo,Toys,Puma,24892,52,11948.16,4.0,306,Kline-Copeland,22-07-2023,Returned,Credit Card,Delhi,4
+ORD342,LED TV Lenovo,Books,Lenovo,34013,56,14965.72,2.5,1245,"Choi, Green and Dyer",29-03-2023,Shipped,Credit Card,Bangalore,2
+ORD343,Running Shoes Revlon,Fashion,Amazon Basics,32924,57,14157.32,4.9,1274,Reyes-Ward,10-12-2023,Cancelled,Net Banking,Chennai,5
+ORD344,Gaming Console Amazon Basics,Beauty,Nike,49827,57,21425.61,3.6,645,Davis-Sanchez,07-08-2023,Delivered,Credit Card,Pune,3
+ORD345,Laptop Revlon,Appliances,Philips,43707,8,40210.44,2.6,570,Lee-Kim,18-09-2024,Delivered,UPI,Bangalore,8
+ORD346,Smartphone Puma,Books,LG,27027,44,15135.12,3.0,221,"Chavez, West and Perkins",24-09-2023,Processing,Amazon Pay,Chennai,4
+ORD347,Gaming Console Philips,Home Decor,Lenovo,22836,40,13701.6,3.9,810,Gonzales-Aguilar,18-09-2023,Returned,Cash on Delivery,Bangalore,3
+ORD348,Laptop Philips,Beauty,Samsung,25018,6,23516.92,3.2,1108,Turner Inc,25-02-2024,Delivered,Credit Card,Hyderabad,10
+ORD349,Laptop Apple,Toys,Lenovo,4227,67,1394.91,4.0,1330,Jennings and Sons,31-12-2023,Processing,Cash on Delivery,Mumbai,4
+ORD350,Washing Machine Lenovo,Fashion,Philips,18077,45,9942.35,5.0,817,Hale-Conway,27-02-2025,Shipped,UPI,Pune,9
+ORD351,Perfume Lenovo,Sports,Nike,26121,56,11493.24,4.6,702,Williams Ltd,04-12-2023,Shipped,Credit Card,Delhi,4
+ORD352,Smartphone Apple,Sports,Lenovo,22056,32,14998.08,2.7,244,Marks-Wilkinson,04-06-2024,Processing,Net Banking,Jaipur,5
+ORD353,Gaming Console Adidas,Electronics,Puma,9458,7,8795.94,3.8,1446,Mckinney-Martin,18-09-2024,Delivered,Amazon Pay,Jaipur,1
+ORD354,Washing Machine Lenovo,Home Decor,LG,13707,32,9320.76,4.0,1120,"Day, Hodge and Reynolds",22-06-2024,Shipped,Amazon Pay,Jaipur,6
+ORD355,LED TV Apple,Home Decor,Revlon,29371,5,27902.45,4.7,257,Walker Ltd,06-01-2025,Cancelled,UPI,Delhi,10
+ORD356,Smartphone Samsung,Beauty,Revlon,44973,67,14841.09,4.4,822,Martinez-Marshall,31-03-2023,Cancelled,Credit Card,Jaipur,8
+ORD357,Smartphone Lenovo,Books,Apple,24908,67,8219.64,2.3,753,"Howard, Kelly and Smith",14-12-2024,Cancelled,Net Banking,Hyderabad,8
+ORD358,Laptop LG,Beauty,Lenovo,17741,14,15257.26,2.6,13,"Klein, Jenkins and Jones",28-03-2023,Processing,Debit Card,Ahmedabad,10
+ORD359,Smartphone Adidas,Beauty,Adidas,15723,17,13050.09,2.5,1182,Williams PLC,28-02-2025,Shipped,Amazon Pay,Mumbai,9
+ORD360,LED TV Nike,Appliances,Puma,46896,54,21572.16,3.7,998,Lucas and Sons,11-05-2024,Processing,Cash on Delivery,Mumbai,5
+ORD361,Washing Machine Amazon Basics,Electronics,Nike,46863,29,33272.73,2.4,734,Cantrell-Mayer,08-02-2024,Returned,UPI,Kolkata,4
+ORD362,LED TV Nike,Electronics,Nike,13386,63,4952.82,3.9,713,Murphy-Swanson,23-07-2024,Cancelled,UPI,Kolkata,3
+ORD363,Smartphone Revlon,Grocery,Apple,8060,11,7173.4,3.6,420,Navarro-Bailey,12-04-2023,Processing,Net Banking,Mumbai,3
+ORD364,Running Shoes Amazon Basics,Home Decor,Apple,48196,24,36628.96,2.6,1141,Rosario Ltd,02-11-2023,Shipped,Cash on Delivery,Ahmedabad,3
+ORD365,Running Shoes Lenovo,Books,Lenovo,4419,69,1369.89,2.3,646,Reyes-Murphy,04-11-2024,Delivered,Cash on Delivery,Pune,2
+ORD366,Washing Machine Samsung,Books,LG,16697,64,6010.92,4.2,714,"Hardy, Morse and Long",28-08-2024,Cancelled,UPI,Lucknow,9
+ORD367,Laptop LG,Electronics,Nike,47794,51,23419.06,3.0,389,Terry-Elliott,08-12-2024,Processing,UPI,Delhi,3
+ORD368,Gaming Console Nike,Grocery,Revlon,24106,65,8437.1,4.5,1267,Weber-Jimenez,26-03-2023,Processing,Net Banking,Bangalore,6
+ORD369,Gaming Console Puma,Home Decor,Apple,7403,57,3183.29,4.4,116,Mcintyre-Reynolds,29-11-2024,Returned,UPI,Chennai,1
+ORD370,Perfume Lenovo,Sports,Nike,45107,36,28868.48,3.3,1319,Martin-Smith,23-09-2023,Shipped,Credit Card,Lucknow,4
+ORD371,Running Shoes Nike,Electronics,LG,25128,69,7789.68,2.4,1040,Turner Group,29-06-2024,Processing,Cash on Delivery,Kolkata,1
+ORD372,Washing Machine Adidas,Sports,Nike,35236,67,11627.88,2.1,379,Garcia-Brown,24-04-2024,Processing,Credit Card,Lucknow,4
+ORD373,Perfume Apple,Electronics,Adidas,3573,34,2358.18,4.7,114,Parker-Boone,17-09-2023,Delivered,Credit Card,Ahmedabad,10
+ORD374,Perfume Adidas,Fashion,Revlon,46318,55,20843.1,4.3,1340,"Silva, Shelton and Ruiz",17-08-2023,Cancelled,Cash on Delivery,Mumbai,1
+ORD375,Washing Machine Puma,Sports,Revlon,20101,27,14673.73,3.3,1188,Reed-Taylor,18-04-2023,Delivered,Debit Card,Hyderabad,9
+ORD376,Smartphone Revlon,Appliances,Apple,24110,63,8920.7,3.8,1160,Wilson Ltd,25-10-2024,Shipped,Amazon Pay,Lucknow,9
+ORD377,Smartphone Samsung,Electronics,Nike,48436,23,37295.72,2.6,882,Torres-Manning,19-01-2025,Processing,Net Banking,Ahmedabad,9
+ORD378,LED TV Amazon Basics,Electronics,Revlon,39805,40,23883.0,4.8,214,Barton-Smith,31-08-2024,Delivered,Amazon Pay,Lucknow,2
+ORD379,LED TV Philips,Sports,LG,15385,52,7384.8,2.7,580,Ewing-Nguyen,23-04-2023,Shipped,Credit Card,Mumbai,5
+ORD380,Laptop Lenovo,Sports,Nike,17519,53,8233.93,2.2,1290,Gonzalez-Miller,16-06-2024,Shipped,Credit Card,Pune,8
+ORD381,Running Shoes Apple,Toys,Adidas,12616,53,5929.52,3.5,1359,Greene-Parker,01-05-2023,Processing,Amazon Pay,Bangalore,4
+ORD382,Smartphone Nike,Beauty,Samsung,44708,58,18777.36,4.1,494,Long Group,30-07-2024,Cancelled,Debit Card,Pune,9
+ORD383,Perfume Nike,Books,Lenovo,6955,50,3477.5,2.2,1445,Brown PLC,21-01-2025,Cancelled,Credit Card,Mumbai,9
+ORD384,LED TV Nike,Grocery,Amazon Basics,34403,11,30618.67,2.3,428,"Scott, Tapia and Olson",27-12-2023,Returned,Debit Card,Kolkata,2
+ORD385,Laptop Nike,Appliances,Philips,38476,20,30780.8,2.3,778,Caldwell-Byrd,22-09-2024,Processing,Debit Card,Ahmedabad,3
+ORD386,Washing Machine Amazon Basics,Home Decor,Samsung,27261,31,18810.09,3.9,10,Stewart-Lara,15-12-2024,Returned,Amazon Pay,Ahmedabad,9
+ORD387,Washing Machine Apple,Grocery,Amazon Basics,40074,36,25647.36,4.8,1016,"Tate, Hernandez and Acosta",17-05-2023,Delivered,Cash on Delivery,Chennai,8
+ORD388,LED TV Lenovo,Sports,Apple,11240,23,8654.8,4.1,14,Miller-Harvey,19-02-2025,Processing,Credit Card,Jaipur,3
+ORD389,Smartphone Samsung,Appliances,Apple,4425,24,3363.0,2.3,270,Le Ltd,15-05-2024,Returned,Amazon Pay,Lucknow,4
+ORD390,Washing Machine Nike,Fashion,LG,11693,51,5729.57,3.2,1194,"York, Carr and Moore",30-11-2023,Processing,Net Banking,Ahmedabad,9
+ORD391,Running Shoes LG,Toys,LG,3956,5,3758.2,2.6,439,Garcia PLC,12-12-2023,Cancelled,Credit Card,Chennai,3
+ORD392,Gaming Console Samsung,Toys,Revlon,35152,8,32339.84,3.9,309,"Tyler, Smith and Cummings",03-07-2024,Delivered,Credit Card,Chennai,3
+ORD393,Gaming Console Philips,Grocery,Amazon Basics,24673,28,17764.56,3.8,887,"Carrillo, Reyes and Montoya",12-04-2023,Delivered,Credit Card,Pune,1
+ORD394,Washing Machine Apple,Appliances,LG,5835,55,2625.75,2.2,1235,"Watson, Nelson and Castro",07-08-2024,Delivered,Amazon Pay,Pune,3
+ORD395,Smartphone Amazon Basics,Appliances,Nike,47734,15,40573.9,2.0,1214,"Williams, Sparks and Gibbs",08-10-2024,Returned,Debit Card,Jaipur,10
+ORD396,LED TV Adidas,Fashion,Apple,36317,42,21063.86,3.0,13,"Walker, Harris and Elliott",17-03-2023,Cancelled,Cash on Delivery,Lucknow,2
+ORD397,Smartphone Nike,Electronics,Amazon Basics,31068,44,17398.08,3.2,442,Bell-Adams,29-02-2024,Cancelled,Cash on Delivery,Ahmedabad,4
+ORD398,Washing Machine Adidas,Fashion,Amazon Basics,19732,24,14996.32,2.9,1485,"Pace, Phillips and Anderson",14-12-2024,Returned,Cash on Delivery,Kolkata,5
+ORD399,Smartphone Nike,Toys,Adidas,10901,61,4251.39,4.3,729,Walker Group,28-11-2023,Shipped,Debit Card,Hyderabad,8
+ORD400,Perfume Apple,Sports,Apple,20906,25,15679.5,2.6,1360,"Taylor, Garcia and Hammond",13-03-2023,Delivered,Cash on Delivery,Delhi,10
+ORD401,Laptop Philips,Fashion,Adidas,11139,70,3341.7,4.9,1032,"Sanchez, Campbell and Jacobs",21-08-2024,Returned,Cash on Delivery,Lucknow,1
+ORD402,Smartphone Revlon,Sports,Revlon,47469,60,18987.6,4.4,399,Campbell Ltd,09-02-2024,Returned,Credit Card,Delhi,2
+ORD403,Running Shoes Nike,Books,Nike,14956,30,10469.2,4.9,245,Torres-Edwards,05-01-2024,Cancelled,Cash on Delivery,Kolkata,6
+ORD404,Running Shoes Revlon,Toys,Amazon Basics,28418,66,9662.12,3.8,339,Collins Group,23-06-2024,Cancelled,Amazon Pay,Ahmedabad,5
+ORD405,Smartphone LG,Electronics,Adidas,29971,21,23677.09,3.0,511,Ali-Miller,05-05-2024,Processing,Amazon Pay,Bangalore,9
+ORD406,Laptop Amazon Basics,Appliances,Philips,41964,50,20982.0,2.7,1173,Parker Ltd,22-06-2023,Delivered,Credit Card,Ahmedabad,5
+ORD407,Laptop Nike,Sports,Philips,38095,31,26285.55,4.7,157,Grimes and Sons,18-06-2023,Delivered,UPI,Jaipur,5
+ORD408,Perfume Apple,Toys,Samsung,27176,28,19566.72,2.2,1379,Clark-Vance,11-02-2024,Processing,UPI,Bangalore,8
+ORD409,Smartphone Amazon Basics,Electronics,LG,10409,63,3851.33,4.5,619,Whitaker-Cruz,14-08-2024,Shipped,UPI,Delhi,6
+ORD410,Perfume Revlon,Grocery,Amazon Basics,47519,9,43242.29,3.8,657,Clay PLC,19-04-2024,Cancelled,Debit Card,Kolkata,4
+ORD411,Gaming Console Puma,Fashion,Samsung,32953,40,19771.8,4.7,700,Mitchell Ltd,09-12-2024,Cancelled,UPI,Kolkata,5
+ORD412,Perfume Adidas,Grocery,LG,7781,53,3657.07,3.4,95,"Wilson, Garrett and Payne",23-06-2024,Returned,UPI,Delhi,9
+ORD413,Gaming Console Adidas,Grocery,LG,42401,18,34768.82,2.7,433,Gray-Murray,05-07-2024,Cancelled,UPI,Hyderabad,3
+ORD414,LED TV Amazon Basics,Books,Philips,14181,43,8083.17,4.2,655,Lawson-Riley,28-05-2023,Processing,Amazon Pay,Chennai,1
+ORD415,Washing Machine Samsung,Books,Nike,47501,50,23750.5,3.0,354,"Gregory, Ramirez and Smith",25-10-2023,Processing,Cash on Delivery,Lucknow,7
+ORD416,Laptop Samsung,Sports,Puma,35136,30,24595.2,2.7,571,"Ibarra, Simmons and Scott",07-08-2024,Shipped,Net Banking,Lucknow,6
+ORD417,Washing Machine Revlon,Home Decor,Nike,34215,13,29767.05,2.6,505,Carr Inc,10-10-2024,Returned,Debit Card,Hyderabad,1
+ORD418,LED TV Amazon Basics,Toys,Samsung,37108,25,27831.0,4.5,413,Cook Inc,24-08-2023,Cancelled,Debit Card,Pune,3
+ORD419,Smartphone Amazon Basics,Toys,Lenovo,38973,39,23773.53,4.6,462,Norris-Smith,20-09-2023,Processing,Net Banking,Pune,2
+ORD420,LED TV Samsung,Appliances,Adidas,9111,15,7744.35,3.2,1116,Carr and Sons,22-08-2024,Delivered,Credit Card,Chennai,1
+ORD421,Gaming Console Apple,Toys,Revlon,39261,51,19237.89,2.1,177,Richardson Group,15-11-2024,Cancelled,Debit Card,Ahmedabad,4
+ORD422,LED TV Philips,Grocery,Puma,32473,33,21756.91,4.2,941,Chambers and Sons,09-02-2025,Processing,Cash on Delivery,Chennai,3
+ORD423,Washing Machine Lenovo,Beauty,Lenovo,37245,11,33148.05,2.3,493,Lane LLC,03-11-2023,Processing,Net Banking,Kolkata,10
+ORD424,Washing Machine Amazon Basics,Electronics,Philips,15372,44,8608.32,4.4,637,"Thomas, Miller and Rivera",31-05-2024,Cancelled,Amazon Pay,Lucknow,1
+ORD425,Smartphone Philips,Home Decor,Philips,42492,20,33993.6,4.2,231,"Munoz, Yoder and Smith",05-01-2025,Cancelled,Cash on Delivery,Lucknow,2
+ORD426,Perfume Amazon Basics,Toys,Apple,34394,61,13413.66,4.3,503,Mccarthy-Perry,03-12-2024,Delivered,Debit Card,Chennai,1
+ORD427,Laptop LG,Toys,Puma,7083,58,2974.86,3.2,584,Garcia PLC,19-04-2024,Delivered,Debit Card,Ahmedabad,6
+ORD428,LED TV LG,Electronics,Puma,26464,41,15613.76,4.1,155,Holmes-Roberts,20-04-2024,Shipped,Net Banking,Kolkata,5
+ORD429,Smartphone Apple,Books,Adidas,30885,24,23472.6,3.7,1383,Armstrong-Khan,27-02-2024,Shipped,Cash on Delivery,Bangalore,4
+ORD430,Gaming Console Adidas,Fashion,Nike,22326,30,15628.2,4.8,865,"Sullivan, Martin and Miller",15-12-2023,Delivered,Net Banking,Jaipur,5
+ORD431,Running Shoes Nike,Sports,Revlon,45735,39,27898.35,4.3,1398,"Norman, Whitehead and Santiago",09-10-2023,Shipped,Amazon Pay,Lucknow,3
+ORD432,LED TV Philips,Toys,Adidas,49639,48,25812.28,2.3,33,Ellis-Martinez,24-01-2024,Delivered,Credit Card,Mumbai,2
+ORD433,Running Shoes Puma,Grocery,Samsung,38096,6,35810.24,4.1,1360,Anderson and Sons,12-11-2024,Delivered,UPI,Delhi,2
+ORD434,Smartphone Philips,Books,Revlon,31502,30,22051.4,4.5,285,Williams Ltd,26-11-2024,Shipped,Cash on Delivery,Lucknow,10
+ORD435,Washing Machine Puma,Toys,Adidas,38436,50,19218.0,3.9,358,Roberts-Collins,21-08-2023,Cancelled,Credit Card,Delhi,5
+ORD436,Running Shoes Nike,Grocery,Samsung,42291,28,30449.52,2.6,1443,"Lawrence, Haynes and Hartman",07-12-2023,Delivered,Credit Card,Delhi,9
+ORD437,LED TV Revlon,Toys,Amazon Basics,12355,5,11737.25,3.4,1419,Smith-Hughes,19-12-2023,Cancelled,Cash on Delivery,Jaipur,6
+ORD438,Laptop Amazon Basics,Electronics,LG,11478,68,3672.96,4.7,780,Rubio-Ferguson,12-09-2023,Returned,Amazon Pay,Mumbai,4
+ORD439,LED TV Lenovo,Home Decor,Apple,15342,21,12120.18,4.4,583,Harris and Sons,10-07-2023,Delivered,Amazon Pay,Hyderabad,4
+ORD440,Washing Machine Philips,Toys,Samsung,13453,17,11165.99,3.9,609,Sharp-Jacobson,03-04-2024,Returned,Net Banking,Chennai,9
+ORD441,Washing Machine Puma,Toys,Amazon Basics,39572,16,33240.48,4.7,816,Young-Barnett,06-10-2023,Cancelled,Credit Card,Ahmedabad,1
+ORD442,Perfume Samsung,Fashion,Philips,19365,24,14717.4,4.3,827,"Davis, Berry and Gaines",08-11-2024,Delivered,Net Banking,Jaipur,6
+ORD443,Smartphone LG,Beauty,Samsung,42967,40,25780.2,2.7,757,"Brown, Williams and Molina",12-06-2024,Delivered,Cash on Delivery,Hyderabad,7
+ORD444,LED TV Amazon Basics,Fashion,Adidas,36963,19,29940.03,2.2,774,Hodges Inc,21-06-2024,Returned,Cash on Delivery,Ahmedabad,10
+ORD445,Perfume Samsung,Sports,Philips,37825,50,18912.5,4.7,671,Johnson LLC,15-10-2023,Cancelled,Net Banking,Ahmedabad,4
+ORD446,Gaming Console Nike,Grocery,Puma,34865,9,31727.15,4.5,1236,Brandt-Nelson,07-11-2024,Shipped,Debit Card,Chennai,5
+ORD447,Smartphone Lenovo,Beauty,Philips,42357,30,29649.9,4.8,39,Williams-Kelley,22-11-2023,Processing,UPI,Delhi,9
+ORD448,Perfume Revlon,Electronics,Apple,20201,18,16564.82,2.5,394,"Osborne, Dillon and Bowers",17-04-2024,Processing,Amazon Pay,Lucknow,9
+ORD449,Gaming Console Philips,Fashion,Lenovo,38160,59,15645.6,4.3,1118,Hall-Chang,11-06-2023,Returned,Debit Card,Kolkata,6
+ORD450,Running Shoes Lenovo,Appliances,Philips,48813,13,42467.31,4.7,850,Holloway-Foster,22-05-2024,Shipped,Amazon Pay,Mumbai,10
+ORD451,LED TV Nike,Sports,Puma,35132,20,28105.6,3.7,157,Kelley-Andrade,06-03-2023,Shipped,Credit Card,Delhi,8
+ORD452,Smartphone Apple,Sports,Lenovo,28360,29,20135.6,4.5,1320,"Jones, Tran and Fernandez",22-07-2024,Returned,UPI,Bangalore,4
+ORD453,Laptop Samsung,Sports,LG,31906,21,25205.74,3.7,431,Manning-Murphy,16-11-2023,Returned,Amazon Pay,Hyderabad,4
+ORD454,Perfume LG,Home Decor,LG,19463,30,13624.1,2.6,76,Walker and Sons,31-08-2023,Returned,Credit Card,Hyderabad,9
+ORD455,LED TV Adidas,Electronics,Samsung,12087,25,9065.25,2.8,1228,Salazar-Gardner,02-09-2024,Delivered,Amazon Pay,Ahmedabad,10
+ORD456,Gaming Console Amazon Basics,Electronics,Nike,44926,37,28303.38,2.9,547,Schwartz-Roth,24-11-2023,Cancelled,Amazon Pay,Lucknow,7
+ORD457,Gaming Console Philips,Beauty,Philips,33247,59,13631.27,4.7,1468,"Park, Peterson and Jackson",01-07-2023,Shipped,Credit Card,Bangalore,1
+ORD458,Washing Machine Puma,Appliances,Amazon Basics,25829,60,10331.6,3.1,1295,Mendoza-Lopez,27-01-2024,Returned,Debit Card,Jaipur,6
+ORD459,Smartphone Samsung,Books,Philips,38055,37,23974.65,4.9,1129,Montoya Inc,17-01-2025,Processing,Net Banking,Delhi,5
+ORD460,Washing Machine Samsung,Beauty,Amazon Basics,46010,7,42789.3,4.4,497,Lewis Group,27-03-2023,Cancelled,Amazon Pay,Hyderabad,4
+ORD461,LED TV Samsung,Books,Samsung,40061,31,27642.09,3.9,577,Woods LLC,18-08-2023,Cancelled,Credit Card,Ahmedabad,1
+ORD462,Washing Machine Philips,Fashion,Lenovo,2190,54,1007.4,4.5,1383,Fitzgerald LLC,29-08-2024,Shipped,Amazon Pay,Chennai,1
+ORD463,Gaming Console Amazon Basics,Electronics,Revlon,9664,38,5991.68,3.2,473,Moore-Villarreal,11-10-2024,Processing,Cash on Delivery,Lucknow,5
+ORD464,Smartphone Amazon Basics,Sports,Apple,20874,36,13359.36,4.8,868,"Lowe, Johnson and Wilkerson",03-01-2025,Shipped,Debit Card,Hyderabad,2
+ORD465,Gaming Console Lenovo,Fashion,Amazon Basics,16949,16,14237.16,5.0,18,"Landry, Roberts and Taylor",21-08-2023,Delivered,Credit Card,Lucknow,7
+ORD466,Washing Machine LG,Home Decor,Puma,3740,61,1458.6,2.6,1136,Hubbard-Kim,08-09-2024,Cancelled,UPI,Lucknow,10
+ORD467,LED TV Amazon Basics,Grocery,Adidas,32473,26,24030.02,4.4,1241,"Campbell, Webb and Diaz",10-05-2023,Cancelled,Credit Card,Bangalore,5
+ORD468,Laptop Nike,Beauty,Adidas,20322,37,12802.86,3.0,1356,Hull Inc,24-02-2025,Delivered,Cash on Delivery,Jaipur,10
+ORD469,Running Shoes Amazon Basics,Beauty,Lenovo,40361,63,14933.57,2.4,1275,Hill-Berry,08-07-2024,Delivered,UPI,Kolkata,2
+ORD470,Laptop Amazon Basics,Home Decor,Puma,29259,48,15214.68,2.9,794,"Matthews, Hays and Hernandez",20-05-2024,Cancelled,Cash on Delivery,Kolkata,1
+ORD471,Washing Machine Adidas,Grocery,Amazon Basics,11215,51,5495.35,4.5,740,Nielsen Inc,10-09-2024,Shipped,Credit Card,Hyderabad,5
+ORD472,Laptop Samsung,Appliances,Puma,30320,31,20920.8,4.5,1196,Warner-Young,17-02-2024,Delivered,Net Banking,Ahmedabad,6
+ORD473,Gaming Console Puma,Books,Apple,35058,14,30149.88,4.7,586,Robles-Ward,04-02-2024,Delivered,Debit Card,Jaipur,6
+ORD474,Smartphone Revlon,Toys,Nike,3166,17,2627.78,4.2,739,Crane Ltd,26-10-2024,Processing,Credit Card,Mumbai,6
+ORD475,Laptop Nike,Home Decor,Lenovo,35628,9,32421.48,3.4,454,Lucas LLC,03-06-2023,Cancelled,Net Banking,Ahmedabad,5
+ORD476,Laptop Samsung,Appliances,Philips,20094,64,7233.84,2.6,1365,Soto Inc,28-05-2024,Delivered,Debit Card,Ahmedabad,10
+ORD477,Washing Machine Amazon Basics,Electronics,Philips,35529,46,19185.66,2.3,1459,Miller-Patel,15-01-2025,Delivered,UPI,Chennai,10
+ORD478,Perfume Amazon Basics,Toys,Lenovo,18928,19,15331.68,3.7,455,"Mayo, Rangel and Griffin",10-01-2025,Delivered,Debit Card,Lucknow,2
+ORD479,Laptop Revlon,Grocery,Lenovo,11703,15,9947.55,3.0,514,Malone and Sons,04-05-2023,Cancelled,Net Banking,Mumbai,4
+ORD480,LED TV Apple,Appliances,Adidas,25531,21,20169.49,3.8,801,"Wilkerson, Allen and Snow",18-05-2023,Returned,Credit Card,Delhi,4
+ORD481,Perfume Amazon Basics,Sports,Nike,5289,18,4336.98,4.8,539,Thompson Group,17-06-2024,Returned,Debit Card,Bangalore,6
+ORD482,Smartphone LG,Grocery,Amazon Basics,41811,15,35539.35,3.2,999,Garcia-Turner,06-06-2023,Cancelled,Cash on Delivery,Lucknow,3
+ORD483,Gaming Console Amazon Basics,Toys,Samsung,33859,9,30811.69,2.4,989,"Chapman, Benson and Wu",28-07-2023,Returned,Amazon Pay,Hyderabad,2
+ORD484,Smartphone Amazon Basics,Toys,LG,47940,57,20614.2,4.6,231,Jones and Sons,11-05-2024,Processing,Cash on Delivery,Hyderabad,2
+ORD485,Running Shoes Nike,Beauty,Nike,30941,24,23515.16,4.2,1226,"Price, Richardson and Meadows",11-12-2023,Processing,Net Banking,Lucknow,6
+ORD486,LED TV LG,Home Decor,Apple,5677,18,4655.14,5.0,810,"Wong, Adams and Johnson",15-07-2024,Returned,Debit Card,Lucknow,3
+ORD487,Laptop Philips,Appliances,Adidas,41810,56,18396.4,4.6,1210,Knapp-Adams,22-01-2024,Returned,Net Banking,Bangalore,5
+ORD488,Washing Machine Adidas,Appliances,Apple,6962,58,2924.04,4.3,841,Krause-Rodriguez,05-05-2024,Cancelled,Net Banking,Kolkata,6
+ORD489,Washing Machine Apple,Books,Lenovo,1131,38,701.22,4.5,894,"Carter, Harper and Moore",20-01-2025,Shipped,Amazon Pay,Kolkata,10
+ORD490,Perfume Apple,Appliances,Puma,15258,19,12358.98,2.1,833,Nelson-Cummings,18-10-2024,Shipped,UPI,Delhi,6
+ORD491,Smartphone Apple,Home Decor,LG,39708,18,32560.56,3.1,566,Hatfield Inc,08-07-2023,Cancelled,Debit Card,Delhi,7
+ORD492,Washing Machine Lenovo,Toys,Amazon Basics,21901,65,7665.35,2.4,1289,Lewis PLC,18-03-2023,Delivered,Credit Card,Lucknow,10
+ORD493,LED TV Samsung,Sports,Philips,10350,9,9418.5,3.5,1038,Chavez-Brown,21-09-2024,Delivered,Credit Card,Delhi,2
+ORD494,Gaming Console Philips,Toys,LG,21270,58,8933.4,2.3,154,"Sanchez, Maldonado and Turner",05-03-2023,Processing,Credit Card,Jaipur,3
+ORD495,LED TV Apple,Electronics,LG,3172,68,1015.04,3.5,314,Roberts PLC,24-08-2024,Delivered,Amazon Pay,Pune,4
+ORD496,Perfume Lenovo,Grocery,Puma,39957,45,21976.35,4.7,1449,"Bruce, Barrett and Williams",02-01-2024,Processing,Cash on Delivery,Bangalore,1
+ORD497,LED TV Nike,Home Decor,Adidas,22011,60,8804.4,4.5,533,Young-White,21-08-2024,Processing,Credit Card,Ahmedabad,10
+ORD498,LED TV Samsung,Books,Philips,12238,13,10647.06,4.0,1391,Gomez-Reynolds,19-01-2024,Shipped,Amazon Pay,Ahmedabad,8
+ORD499,Laptop Amazon Basics,Sports,Puma,21172,47,11221.16,2.6,407,Morgan-Simmons,25-11-2024,Processing,Amazon Pay,Bangalore,4
+ORD500,Running Shoes Puma,Appliances,Lenovo,9769,61,3809.91,4.6,1131,"Lewis, Long and Hall",05-04-2024,Cancelled,Amazon Pay,Hyderabad,2
+ORD501,Perfume LG,Appliances,Puma,37866,13,32943.42,2.3,1353,Davis-Stephenson,02-11-2024,Delivered,Amazon Pay,Ahmedabad,5
+ORD502,Smartphone LG,Appliances,Nike,11883,10,10694.7,4.0,1272,Morrow and Sons,08-03-2023,Processing,Credit Card,Pune,7
+ORD503,Smartphone Lenovo,Fashion,Amazon Basics,39282,17,32604.06,4.5,940,Berry Inc,23-09-2023,Processing,Amazon Pay,Kolkata,10
+ORD504,LED TV Revlon,Sports,Puma,18181,44,10181.36,4.8,130,"Williams, Williams and Smith",06-10-2023,Shipped,UPI,Chennai,6
+ORD505,Running Shoes Adidas,Electronics,Puma,49271,55,22171.95,4.2,1032,Turner-Miller,17-12-2023,Delivered,Debit Card,Delhi,9
+ORD506,Running Shoes Philips,Appliances,Revlon,10483,24,7967.08,2.4,182,"Morrow, Evans and Delgado",09-11-2023,Returned,Credit Card,Mumbai,8
+ORD507,Perfume Apple,Electronics,Lenovo,15077,36,9649.28,4.2,887,Chavez-Harrell,20-04-2024,Delivered,Debit Card,Delhi,4
+ORD508,Washing Machine Amazon Basics,Books,Adidas,34644,5,32911.8,4.9,440,Perry PLC,02-04-2023,Returned,Net Banking,Mumbai,8
+ORD509,Perfume Adidas,Sports,Lenovo,35119,9,31958.29,4.5,1419,Willis-Smith,21-12-2024,Delivered,Cash on Delivery,Hyderabad,3
+ORD510,Gaming Console Puma,Books,Adidas,26769,39,16329.09,4.3,1188,Donaldson-Goodwin,28-07-2024,Returned,UPI,Bangalore,8
+ORD511,Washing Machine Puma,Toys,Nike,13976,11,12438.64,2.5,868,Scott Inc,20-09-2023,Delivered,UPI,Chennai,7
+ORD512,LED TV Revlon,Beauty,Revlon,6528,66,2219.52,4.6,177,Avery-Boyd,22-03-2023,Shipped,Net Banking,Kolkata,4
+ORD513,Laptop Revlon,Electronics,Adidas,18165,33,12170.55,3.3,128,Holmes and Sons,10-09-2023,Shipped,Credit Card,Bangalore,7
+ORD514,Laptop LG,Beauty,Amazon Basics,40540,27,29594.2,3.0,617,"Fisher, Stone and Taylor",30-11-2023,Returned,Debit Card,Bangalore,8
+ORD515,Smartphone Adidas,Fashion,LG,47621,48,24762.92,2.3,509,Terrell Group,17-01-2025,Shipped,UPI,Hyderabad,2
+ORD516,Perfume Apple,Grocery,Apple,36129,42,20954.82,3.4,308,Ellis-Davis,29-12-2024,Cancelled,Cash on Delivery,Pune,7
+ORD517,Washing Machine Revlon,Beauty,Nike,37143,17,30828.69,2.4,855,Jones-Carpenter,05-11-2024,Delivered,Cash on Delivery,Bangalore,8
+ORD518,Running Shoes Adidas,Fashion,Revlon,14435,8,13280.2,3.3,69,Best and Sons,22-06-2023,Returned,Cash on Delivery,Pune,2
+ORD519,Running Shoes Philips,Home Decor,Apple,16940,35,11011.0,4.5,218,"Salas, Smith and Medina",08-09-2024,Delivered,Credit Card,Kolkata,3
+ORD520,Washing Machine Apple,Toys,Apple,41468,65,14513.8,3.9,304,"Malone, Romero and Martinez",20-09-2023,Shipped,Credit Card,Mumbai,7
+ORD521,Washing Machine Revlon,Toys,LG,42517,59,17431.97,4.1,575,Davies LLC,16-06-2023,Cancelled,Amazon Pay,Pune,6
+ORD522,Laptop Amazon Basics,Beauty,LG,41940,48,21808.8,4.8,108,"Hernandez, Davis and Fuller",19-05-2023,Processing,Cash on Delivery,Delhi,9
+ORD523,Gaming Console Adidas,Toys,Puma,6442,24,4895.92,3.5,19,Lowe-Brown,06-07-2023,Cancelled,Amazon Pay,Lucknow,9
+ORD524,Smartphone Apple,Appliances,Apple,8061,17,6690.63,3.9,868,Gray-Simmons,11-01-2025,Returned,Cash on Delivery,Bangalore,9
+ORD525,Smartphone Puma,Appliances,Lenovo,47160,10,42444.0,2.8,1252,Ruiz-Taylor,24-09-2023,Cancelled,Net Banking,Jaipur,10
+ORD526,Smartphone Nike,Toys,Puma,15584,60,6233.6,3.3,706,Walker Inc,13-01-2024,Returned,Amazon Pay,Bangalore,3
+ORD527,Running Shoes Revlon,Grocery,LG,2239,65,783.65,3.9,1090,"Phelps, Ryan and Hall",31-05-2024,Returned,Net Banking,Kolkata,1
+ORD528,Gaming Console LG,Grocery,Puma,7656,69,2373.36,4.0,1422,"Gomez, Price and Martin",04-01-2024,Cancelled,UPI,Bangalore,8
+ORD529,LED TV LG,Sports,Amazon Basics,45938,13,39966.06,2.5,1032,Moore Group,03-06-2023,Cancelled,UPI,Hyderabad,7
+ORD530,Perfume Apple,Beauty,Revlon,46951,18,38499.82,2.8,297,"Miller, Mitchell and Brooks",08-06-2023,Shipped,Amazon Pay,Mumbai,7
+ORD531,Perfume Lenovo,Fashion,Lenovo,1646,39,1004.06,4.1,1112,Fields LLC,08-10-2024,Delivered,UPI,Mumbai,7
+ORD532,Smartphone Samsung,Appliances,Amazon Basics,9177,20,7341.6,3.2,1062,"Norris, Parsons and Smith",26-07-2023,Delivered,Net Banking,Chennai,10
+ORD533,Smartphone Samsung,Sports,Nike,48907,67,16139.31,4.1,729,"Wallace, Yoder and Ortiz",11-09-2023,Returned,UPI,Pune,1
+ORD534,Laptop Amazon Basics,Appliances,Nike,45917,31,31682.73,4.3,951,Golden LLC,31-05-2023,Shipped,UPI,Pune,8
+ORD535,Washing Machine Apple,Books,LG,2311,40,1386.6,4.2,566,Valdez-Sampson,08-05-2024,Processing,Credit Card,Lucknow,1
+ORD536,Running Shoes Puma,Toys,Revlon,31243,39,19058.23,4.6,405,Davis PLC,25-10-2023,Delivered,UPI,Delhi,2
+ORD537,Washing Machine Nike,Sports,Puma,28227,37,17783.01,2.9,373,Diaz Group,31-12-2024,Processing,Net Banking,Jaipur,5
+ORD538,Washing Machine LG,Home Decor,Lenovo,24058,66,8179.72,3.8,654,Chen Group,15-12-2023,Processing,Cash on Delivery,Mumbai,5
+ORD539,Gaming Console Nike,Grocery,Nike,12697,54,5840.62,2.4,197,Berger-Smith,29-04-2024,Shipped,Credit Card,Delhi,6
+ORD540,Perfume Nike,Sports,Adidas,33528,22,26151.84,3.1,922,"Ward, Smith and Davidson",23-12-2023,Shipped,Debit Card,Hyderabad,8
+ORD541,Laptop Revlon,Books,Samsung,40660,65,14231.0,3.3,542,Rodriguez Group,04-02-2024,Shipped,UPI,Mumbai,8
+ORD542,Smartphone Lenovo,Electronics,Adidas,37305,8,34320.6,4.8,1048,Acevedo LLC,29-02-2024,Delivered,Debit Card,Ahmedabad,8
+ORD543,LED TV Philips,Home Decor,Amazon Basics,23686,21,18711.94,4.5,559,Jones-Nelson,12-05-2023,Delivered,Net Banking,Mumbai,2
+ORD544,Washing Machine Nike,Grocery,Adidas,15395,23,11854.15,2.7,632,Moore Ltd,27-06-2024,Cancelled,Amazon Pay,Pune,3
+ORD545,Laptop Amazon Basics,Electronics,Samsung,35011,38,21706.82,4.6,494,"Jones, West and Parker",24-10-2023,Shipped,Credit Card,Jaipur,4
+ORD546,Perfume Amazon Basics,Home Decor,Amazon Basics,10116,63,3742.92,4.0,322,Steele-Garza,07-06-2024,Returned,Net Banking,Mumbai,5
+ORD547,Washing Machine Puma,Toys,Lenovo,48641,5,46208.95,3.1,752,"Waller, Murphy and Figueroa",30-11-2024,Cancelled,Credit Card,Lucknow,7
+ORD548,Gaming Console Lenovo,Sports,Revlon,37140,25,27855.0,2.6,183,"Young, Johnson and Williams",21-10-2024,Processing,Debit Card,Kolkata,2
+ORD549,Gaming Console Apple,Fashion,Revlon,7664,28,5518.08,4.5,947,"Hill, Harris and Torres",01-06-2024,Shipped,Cash on Delivery,Jaipur,9
+ORD550,Perfume Amazon Basics,Grocery,Samsung,5323,19,4311.63,4.0,1487,Williams LLC,17-11-2023,Cancelled,Credit Card,Pune,6
+ORD551,Perfume Revlon,Toys,Philips,6761,13,5882.07,4.3,1491,Coffey-Mora,27-07-2024,Cancelled,Debit Card,Bangalore,3
+ORD552,Gaming Console Samsung,Books,Samsung,11328,55,5097.6,4.1,1269,Perez-Bonilla,23-05-2023,Shipped,Net Banking,Jaipur,8
+ORD553,Laptop Lenovo,Toys,Nike,27395,13,23833.65,2.3,286,Maldonado-Newman,24-09-2023,Processing,Credit Card,Chennai,9
+ORD554,Perfume Puma,Sports,Lenovo,21588,45,11873.4,4.5,423,"Ryan, Hall and Rodgers",16-02-2024,Delivered,UPI,Mumbai,9
+ORD555,Washing Machine LG,Appliances,Philips,7903,14,6796.58,3.5,42,"Arias, Smith and Andrews",17-10-2023,Delivered,Net Banking,Delhi,8
+ORD556,Gaming Console Apple,Electronics,Amazon Basics,15411,56,6780.84,3.0,1262,"Brown, Anderson and Navarro",19-04-2023,Shipped,Cash on Delivery,Bangalore,10
+ORD557,LED TV Puma,Books,Philips,17411,9,15844.01,2.4,983,Mcpherson Group,16-02-2025,Processing,Amazon Pay,Lucknow,5
+ORD558,Running Shoes Samsung,Appliances,Revlon,47835,52,22960.8,2.8,915,"Burke, Hicks and Hernandez",08-04-2023,Shipped,Net Banking,Lucknow,8
+ORD559,Gaming Console LG,Appliances,Apple,3943,24,2996.68,2.4,1390,"Wilson, Briggs and Wright",19-11-2024,Returned,UPI,Ahmedabad,6
+ORD560,Running Shoes Amazon Basics,Sports,Adidas,38820,53,18245.4,3.0,813,Smith-Anderson,12-12-2024,Cancelled,Amazon Pay,Kolkata,9
+ORD561,Perfume Amazon Basics,Sports,Adidas,34075,23,26237.75,5.0,1317,Vasquez-Serrano,15-09-2023,Returned,Credit Card,Bangalore,10
+ORD562,Perfume Revlon,Home Decor,Puma,32980,8,30341.6,4.9,1053,"Diaz, Mullen and Lopez",04-10-2023,Shipped,Credit Card,Chennai,8
+ORD563,Smartphone Philips,Fashion,Revlon,42845,67,14138.85,2.9,1474,"Hayes, Bender and Dominguez",15-09-2023,Delivered,Cash on Delivery,Mumbai,10
+ORD564,Smartphone Samsung,Appliances,Apple,6402,12,5633.76,4.6,1204,Sanchez-Hester,25-09-2023,Returned,Amazon Pay,Mumbai,10
+ORD565,Running Shoes Nike,Sports,Puma,22429,67,7401.57,2.9,1295,"Stevenson, Mora and Nelson",25-01-2024,Returned,UPI,Lucknow,2
+ORD566,Smartphone LG,Beauty,Apple,34388,18,28198.16,3.6,609,Henderson-Craig,23-04-2024,Cancelled,Net Banking,Lucknow,10
+ORD567,Smartphone Lenovo,Fashion,Philips,30288,52,14538.24,4.8,770,"Santiago, Jackson and Murphy",07-11-2023,Delivered,Amazon Pay,Ahmedabad,7
+ORD568,Gaming Console LG,Fashion,Revlon,48823,40,29293.8,3.1,1101,"Smith, Hayes and Howard",25-04-2023,Shipped,UPI,Chennai,9
+ORD569,Laptop LG,Grocery,Nike,43518,8,40036.56,3.1,90,Torres-Solomon,17-05-2023,Processing,Net Banking,Hyderabad,6
+ORD570,Gaming Console Amazon Basics,Appliances,Revlon,31624,30,22136.8,2.3,337,Patterson Group,17-09-2024,Shipped,Debit Card,Pune,1
+ORD571,Washing Machine Apple,Appliances,Revlon,10463,48,5440.76,2.2,74,Smith Group,26-11-2024,Shipped,Net Banking,Ahmedabad,2
+ORD572,Perfume Lenovo,Home Decor,Amazon Basics,49718,68,15909.76,2.9,988,Wu PLC,17-06-2023,Returned,Amazon Pay,Kolkata,4
+ORD573,Washing Machine Revlon,Beauty,LG,26994,61,10527.66,4.7,871,"Johnston, Miller and Mendoza",22-05-2023,Delivered,Credit Card,Ahmedabad,4
+ORD574,Smartphone Puma,Books,Apple,17977,27,13123.21,4.4,28,Hardy-Thomas,21-12-2024,Shipped,Net Banking,Jaipur,8
+ORD575,Running Shoes LG,Sports,Samsung,28065,13,24416.55,2.9,1499,"Rosales, Morris and Rose",31-12-2023,Returned,Credit Card,Lucknow,5
+ORD576,Laptop Philips,Toys,Apple,36967,9,33639.97,2.8,1007,"Perez, Thomas and Reed",08-06-2024,Cancelled,Cash on Delivery,Mumbai,9
+ORD577,Gaming Console Nike,Electronics,Adidas,49837,63,18439.69,2.3,693,"Terrell, Harris and Waters",25-01-2025,Delivered,Credit Card,Jaipur,6
+ORD578,Perfume Apple,Beauty,Amazon Basics,49802,15,42331.7,4.8,1307,"Jones, Spears and Padilla",20-12-2024,Processing,Amazon Pay,Chennai,5
+ORD579,Running Shoes Amazon Basics,Grocery,Revlon,9958,16,8364.72,3.2,1430,Rush LLC,11-12-2023,Shipped,Debit Card,Pune,1
+ORD580,LED TV Philips,Electronics,Samsung,35475,42,20575.5,3.1,773,Patterson Group,02-09-2023,Returned,UPI,Mumbai,6
+ORD581,Laptop LG,Electronics,Nike,32986,6,31006.84,4.2,782,Nunez Ltd,08-05-2024,Cancelled,Amazon Pay,Hyderabad,9
+ORD582,Washing Machine Apple,Electronics,LG,16305,53,7663.35,4.5,609,Brown-Travis,09-06-2024,Processing,Credit Card,Mumbai,1
+ORD583,Smartphone Amazon Basics,Electronics,Revlon,2207,34,1456.62,2.3,667,Ferguson Inc,05-07-2023,Shipped,Cash on Delivery,Kolkata,5
+ORD584,Running Shoes Adidas,Books,Samsung,12723,26,9415.02,4.6,1436,"Mercado, Lucas and Rios",23-05-2024,Delivered,Credit Card,Jaipur,5
+ORD585,LED TV Adidas,Home Decor,Lenovo,2413,58,1013.46,4.3,50,Johnson Ltd,27-12-2024,Returned,Credit Card,Mumbai,2
+ORD586,Running Shoes Lenovo,Grocery,Revlon,40673,13,35385.51,3.0,359,Humphrey and Sons,22-11-2023,Cancelled,Net Banking,Jaipur,8
+ORD587,Washing Machine Revlon,Beauty,Nike,7075,69,2193.25,4.0,1356,Turner-Howell,10-07-2024,Delivered,Amazon Pay,Lucknow,9
+ORD588,Perfume Samsung,Electronics,Philips,20581,37,12966.03,2.8,582,"Peterson, Brown and Clarke",28-02-2025,Shipped,UPI,Bangalore,3
+ORD589,Laptop Lenovo,Fashion,Puma,6508,29,4620.68,4.9,32,Hart Ltd,16-01-2024,Processing,Amazon Pay,Delhi,10
+ORD590,Washing Machine Puma,Sports,Amazon Basics,5457,44,3055.92,3.3,687,Smith-Lewis,05-07-2024,Returned,UPI,Delhi,1
+ORD591,Gaming Console Revlon,Sports,Apple,47798,5,45408.1,3.7,98,Anderson-Scott,09-03-2024,Returned,Debit Card,Jaipur,4
+ORD592,Washing Machine LG,Electronics,Puma,3491,63,1291.67,4.5,1149,Stuart-Scott,12-04-2023,Cancelled,Debit Card,Pune,5
+ORD593,LED TV Puma,Appliances,Amazon Basics,18277,50,9138.5,4.4,308,Butler PLC,25-04-2024,Delivered,Amazon Pay,Mumbai,7
+ORD594,LED TV LG,Toys,LG,16250,17,13487.5,2.9,148,Farrell-Jones,13-11-2024,Returned,Amazon Pay,Chennai,3
+ORD595,LED TV Philips,Electronics,Apple,6393,58,2685.06,2.6,751,"Walker, Morales and Mcdonald",23-12-2023,Cancelled,Net Banking,Hyderabad,5
+ORD596,Perfume Nike,Home Decor,Adidas,18855,45,10370.25,2.1,891,Moore-Rodriguez,01-06-2024,Shipped,Credit Card,Mumbai,2
+ORD597,LED TV Revlon,Fashion,Apple,22974,50,11487.0,4.7,894,"Odom, Stephens and Mosley",29-10-2024,Returned,Credit Card,Jaipur,7
+ORD598,LED TV Apple,Beauty,Philips,30594,36,19580.16,4.0,1412,Moore-Fernandez,24-09-2024,Shipped,UPI,Mumbai,8
+ORD599,Laptop Puma,Books,Amazon Basics,10934,50,5467.0,4.2,118,Liu-Hines,17-06-2024,Processing,Net Banking,Ahmedabad,5
+ORD600,LED TV Philips,Sports,Nike,33300,17,27639.0,3.0,467,"Rios, Knapp and Maynard",26-05-2023,Returned,Amazon Pay,Hyderabad,6
+ORD601,Gaming Console Puma,Sports,Lenovo,48356,48,25145.12,4.9,543,"Cline, Allen and Mcfarland",25-07-2023,Processing,Credit Card,Pune,10
+ORD602,Perfume Nike,Home Decor,LG,12548,54,5772.08,4.3,489,Nixon Inc,27-03-2023,Delivered,Debit Card,Delhi,1
+ORD603,Smartphone Samsung,Books,Adidas,42119,9,38328.29,2.1,933,Perez-Miller,28-06-2023,Cancelled,Debit Card,Bangalore,8
+ORD604,LED TV Samsung,Toys,Revlon,44618,62,16954.84,4.5,1488,Jackson Inc,27-03-2024,Returned,Amazon Pay,Jaipur,9
+ORD605,Washing Machine Revlon,Grocery,Puma,31528,19,25537.68,3.7,1128,Dickerson-Wilson,19-02-2024,Delivered,Cash on Delivery,Delhi,6
+ORD606,Gaming Console Amazon Basics,Appliances,Puma,2237,26,1655.38,4.6,629,Walters-Martinez,25-12-2024,Shipped,Net Banking,Jaipur,7
+ORD607,Laptop Lenovo,Sports,Samsung,23557,15,20023.45,2.1,447,Mcknight-Price,19-12-2024,Delivered,Net Banking,Lucknow,10
+ORD608,LED TV LG,Home Decor,Adidas,25573,14,21992.78,3.9,1342,"Howard, Reed and Brooks",30-03-2024,Processing,Cash on Delivery,Ahmedabad,1
+ORD609,Laptop Apple,Grocery,LG,33284,47,17640.52,2.6,228,Maldonado-Jenkins,07-02-2024,Returned,Debit Card,Ahmedabad,6
+ORD610,Laptop Nike,Toys,Lenovo,42024,5,39922.8,4.9,523,Kaufman-Keller,22-09-2023,Returned,Net Banking,Chennai,2
+ORD611,Perfume Amazon Basics,Beauty,Amazon Basics,40748,38,25263.76,4.2,800,Gonzalez-Burgess,17-11-2024,Cancelled,UPI,Kolkata,3
+ORD612,Running Shoes Amazon Basics,Appliances,Adidas,8766,63,3243.42,3.1,882,Mays Ltd,20-11-2023,Delivered,Net Banking,Delhi,10
+ORD613,Smartphone Puma,Sports,Amazon Basics,24176,13,21033.12,2.8,766,"Coffey, Gomez and Harvey",26-04-2024,Cancelled,Net Banking,Delhi,2
+ORD614,Gaming Console Amazon Basics,Grocery,Puma,2637,24,2004.12,2.5,1141,"Collins, Welch and Cohen",07-11-2023,Shipped,Net Banking,Mumbai,5
+ORD615,Smartphone Samsung,Books,Amazon Basics,38969,26,28837.06,3.4,188,"Lloyd, Ford and Franco",18-11-2023,Returned,UPI,Kolkata,3
+ORD616,Laptop Lenovo,Appliances,Revlon,22282,6,20945.08,4.0,1001,Martin LLC,03-06-2023,Delivered,Debit Card,Mumbai,5
+ORD617,LED TV Samsung,Grocery,Philips,17806,38,11039.72,3.2,857,"Larson, Davis and Beck",18-10-2023,Shipped,Amazon Pay,Kolkata,5
+ORD618,Perfume Adidas,Appliances,Puma,43072,7,40056.96,3.6,1389,"Taylor, Houston and Harrison",23-05-2023,Delivered,UPI,Hyderabad,5
+ORD619,LED TV LG,Beauty,Apple,40487,22,31579.86,3.9,89,"Carr, Wade and Davis",02-09-2024,Shipped,Debit Card,Bangalore,1
+ORD620,Gaming Console Lenovo,Books,Amazon Basics,33224,13,28904.88,4.8,809,Wallace-Tate,06-09-2024,Delivered,UPI,Delhi,10
+ORD621,Smartphone Lenovo,Books,Nike,17325,8,15939.0,3.7,934,Porter-Foster,12-02-2025,Delivered,Credit Card,Mumbai,1
+ORD622,Washing Machine Puma,Electronics,Adidas,18616,17,15451.28,3.1,485,"Webb, Harper and Padilla",14-01-2025,Processing,Amazon Pay,Ahmedabad,1
+ORD623,Washing Machine Lenovo,Toys,Lenovo,19846,59,8136.86,2.7,1432,"Smith, Howard and Gray",01-06-2023,Processing,UPI,Ahmedabad,4
+ORD624,Smartphone Apple,Fashion,Samsung,41999,68,13439.68,4.4,1109,Newman-Nolan,08-02-2025,Delivered,Cash on Delivery,Jaipur,7
+ORD625,Running Shoes Adidas,Fashion,Nike,48889,19,39600.09,3.8,268,Miller Group,02-07-2023,Delivered,UPI,Ahmedabad,1
+ORD626,Running Shoes Revlon,Sports,Apple,23287,16,19561.08,4.3,469,Cowan-Elliott,10-03-2024,Shipped,Net Banking,Jaipur,1
+ORD627,LED TV Revlon,Appliances,Revlon,23693,24,18006.68,3.7,586,"Deleon, Campbell and Jones",07-04-2024,Delivered,UPI,Hyderabad,4
+ORD628,Laptop Apple,Electronics,Adidas,24835,45,13659.25,2.1,370,"Kirk, Clark and Snyder",18-05-2023,Shipped,Cash on Delivery,Lucknow,6
+ORD629,Running Shoes LG,Books,Nike,37801,67,12474.33,3.6,488,Burke-Campbell,07-12-2024,Delivered,Cash on Delivery,Ahmedabad,6
+ORD630,Washing Machine Adidas,Toys,LG,45001,7,41850.93,2.0,710,Molina-Smith,07-06-2023,Shipped,Credit Card,Mumbai,4
+ORD631,Gaming Console Revlon,Electronics,Amazon Basics,40153,30,28107.1,4.8,1034,York-Turner,03-01-2024,Delivered,Credit Card,Lucknow,3
+ORD632,Running Shoes Puma,Electronics,Amazon Basics,41827,14,35971.22,3.9,1324,Williams and Sons,08-02-2025,Shipped,UPI,Hyderabad,10
+ORD633,Gaming Console Adidas,Electronics,LG,40795,21,32228.05,3.5,1405,Nichols-Santos,22-04-2024,Processing,Cash on Delivery,Hyderabad,8
+ORD634,LED TV Lenovo,Grocery,Amazon Basics,12586,53,5915.42,2.9,1297,Austin-Lopez,31-01-2024,Shipped,Amazon Pay,Bangalore,9
+ORD635,Laptop Apple,Toys,Lenovo,42555,5,40427.25,4.0,592,"Casey, Hernandez and Cruz",27-10-2024,Cancelled,Net Banking,Mumbai,6
+ORD636,Perfume Philips,Toys,Puma,12946,9,11780.86,2.8,60,"Prince, Schmidt and Holden",06-11-2023,Shipped,Cash on Delivery,Delhi,10
+ORD637,Smartphone Amazon Basics,Grocery,Puma,14756,17,12247.48,2.3,1019,Perez Group,19-04-2024,Delivered,Amazon Pay,Chennai,5
+ORD638,Smartphone LG,Toys,Lenovo,4209,6,3956.46,2.8,159,Walker PLC,07-10-2023,Cancelled,Amazon Pay,Chennai,2
+ORD639,Running Shoes Lenovo,Books,Philips,21271,43,12124.47,3.9,510,Mcclure-Zimmerman,07-01-2025,Cancelled,UPI,Hyderabad,3
+ORD640,Perfume Revlon,Sports,Puma,4469,58,1876.98,4.4,683,Campbell-Robinson,10-12-2023,Shipped,Amazon Pay,Delhi,6
+ORD641,Perfume Samsung,Toys,Revlon,8024,14,6900.64,5.0,1260,"York, Chapman and Jacobs",26-10-2023,Returned,Net Banking,Hyderabad,2
+ORD642,Laptop Adidas,Grocery,Adidas,7252,70,2175.6,4.4,249,"Owens, Costa and Rivera",21-11-2024,Returned,Net Banking,Chennai,6
+ORD643,Perfume Adidas,Beauty,Apple,20634,18,16919.88,3.9,127,Nunez Inc,14-02-2024,Returned,Cash on Delivery,Lucknow,10
+ORD644,Perfume Puma,Grocery,Lenovo,18146,57,7802.78,4.4,1296,Bullock LLC,28-07-2023,Returned,Cash on Delivery,Kolkata,6
+ORD645,LED TV Samsung,Fashion,Revlon,29786,42,17275.88,4.3,37,"Harvey, Gomez and Burton",20-10-2023,Shipped,Amazon Pay,Chennai,4
+ORD646,LED TV Amazon Basics,Appliances,Adidas,19831,53,9320.57,3.0,1290,"Brown, Garza and Ray",20-10-2023,Shipped,UPI,Chennai,4
+ORD647,Laptop Amazon Basics,Appliances,Revlon,37655,24,28617.8,3.9,907,Martin PLC,24-07-2024,Shipped,Credit Card,Delhi,10
+ORD648,LED TV Amazon Basics,Home Decor,Puma,43644,15,37097.4,3.0,1216,Martinez Inc,17-04-2024,Shipped,Credit Card,Chennai,10
+ORD649,Smartphone Nike,Books,Adidas,24106,49,12294.06,3.3,1248,"Fields, Cabrera and Harris",22-02-2025,Processing,Net Banking,Ahmedabad,1
+ORD650,Gaming Console Puma,Toys,Puma,25086,6,23580.84,3.3,979,Macdonald-Miller,19-03-2023,Processing,Net Banking,Delhi,3
+ORD651,Perfume Samsung,Books,Revlon,39226,17,32557.58,4.4,591,Carson Group,16-08-2024,Processing,Amazon Pay,Chennai,3
+ORD652,Running Shoes Amazon Basics,Sports,Philips,4734,31,3266.46,2.4,705,"West, Watts and Smith",27-08-2023,Processing,UPI,Bangalore,8
+ORD653,Smartphone Adidas,Electronics,Apple,34883,36,22325.12,4.5,504,Murray-Jackson,01-08-2024,Processing,Cash on Delivery,Delhi,3
+ORD654,Laptop Amazon Basics,Fashion,Amazon Basics,41077,8,37790.84,4.3,679,Moore Ltd,10-04-2024,Processing,Debit Card,Kolkata,1
+ORD655,Laptop Apple,Grocery,LG,15718,64,5658.48,4.5,631,"Porter, Martinez and Houston",16-03-2023,Delivered,Net Banking,Kolkata,5
+ORD656,Laptop Samsung,Toys,Apple,28123,19,22779.63,4.3,1368,Orr LLC,07-06-2024,Processing,Net Banking,Pune,3
+ORD657,Washing Machine Revlon,Grocery,Apple,12509,61,4878.51,2.1,311,"Williams, Davis and Norman",26-07-2023,Shipped,Debit Card,Mumbai,2
+ORD658,Smartphone Revlon,Grocery,Nike,31969,42,18542.02,2.5,1497,"Jones, Johnson and Harmon",07-10-2024,Shipped,Net Banking,Delhi,8
+ORD659,Washing Machine Adidas,Home Decor,Revlon,15060,42,8734.8,2.6,374,Green-Perkins,13-08-2024,Delivered,Credit Card,Hyderabad,9
+ORD660,Perfume Puma,Appliances,Nike,44801,5,42560.95,2.6,1299,Howell-Ward,26-04-2024,Cancelled,Credit Card,Lucknow,9
+ORD661,Washing Machine Amazon Basics,Toys,Puma,5872,7,5460.96,2.4,1337,"Hernandez, Harmon and Cannon",26-07-2023,Shipped,Net Banking,Lucknow,3
+ORD662,Laptop Samsung,Books,Philips,34322,8,31576.24,3.6,1320,Arroyo-Johnson,07-06-2024,Delivered,Cash on Delivery,Lucknow,8
+ORD663,Washing Machine Philips,Electronics,Apple,1161,27,847.53,2.2,322,Garcia-Cochran,23-03-2024,Returned,Debit Card,Kolkata,6
+ORD664,Running Shoes Puma,Books,Puma,36253,53,17038.91,4.5,703,"Medina, Patterson and Carroll",13-10-2024,Returned,Amazon Pay,Mumbai,1
+ORD665,Laptop Samsung,Fashion,Philips,36198,49,18460.98,4.6,197,Smith-Bennett,28-02-2024,Cancelled,UPI,Bangalore,1
+ORD666,Gaming Console Philips,Electronics,Adidas,33407,69,10356.17,2.5,1123,"Williamson, Barrett and Reyes",29-01-2025,Shipped,Amazon Pay,Hyderabad,3
+ORD667,Laptop Samsung,Home Decor,Lenovo,22223,58,9333.66,4.0,692,Mcdonald Group,17-04-2023,Shipped,Credit Card,Bangalore,10
+ORD668,LED TV LG,Sports,Amazon Basics,4781,45,2629.55,4.8,908,Evans LLC,31-12-2024,Cancelled,Credit Card,Ahmedabad,7
+ORD669,Laptop Puma,Home Decor,Nike,4045,62,1537.1,4.7,89,"Brown, Howard and Lara",27-06-2023,Shipped,Net Banking,Kolkata,4
+ORD670,Perfume Samsung,Sports,LG,30584,15,25996.4,3.4,1122,Weiss Ltd,01-03-2023,Cancelled,Credit Card,Delhi,5
+ORD671,Perfume Puma,Home Decor,Amazon Basics,49043,13,42667.41,4.8,1052,Porter-Dixon,09-07-2024,Processing,UPI,Bangalore,8
+ORD672,Perfume Puma,Fashion,Apple,14248,58,5984.16,4.0,1499,Douglas-Johnson,29-03-2023,Shipped,Amazon Pay,Mumbai,5
+ORD673,Smartphone Revlon,Fashion,Apple,36184,62,13749.92,3.9,415,Andrade Group,29-11-2023,Delivered,Amazon Pay,Mumbai,9
+ORD674,Perfume Adidas,Electronics,LG,47585,41,28075.15,4.9,490,Holmes-Simpson,22-08-2023,Shipped,Cash on Delivery,Lucknow,1
+ORD675,Smartphone Adidas,Appliances,Apple,39446,21,31162.34,4.4,866,"Rose, Brown and Hoffman",05-12-2023,Cancelled,Net Banking,Kolkata,3
+ORD676,Laptop Puma,Home Decor,Puma,2660,6,2500.4,4.5,90,Lin-Mccarthy,18-08-2023,Shipped,Cash on Delivery,Chennai,3
+ORD677,Perfume Philips,Sports,Lenovo,31985,12,28146.8,4.5,1496,Moreno-Hogan,29-01-2025,Delivered,Debit Card,Chennai,9
+ORD678,Washing Machine LG,Books,Apple,5546,6,5213.24,3.1,503,Case Ltd,06-09-2023,Shipped,Amazon Pay,Ahmedabad,3
+ORD679,Laptop Amazon Basics,Books,Amazon Basics,46790,49,23862.9,3.0,1197,"Carroll, Anderson and Wright",07-10-2023,Cancelled,Debit Card,Bangalore,2
+ORD680,Smartphone Philips,Books,LG,7193,44,4028.08,2.2,805,Jones-Rowe,22-02-2025,Processing,Cash on Delivery,Mumbai,7
+ORD681,Laptop Nike,Books,Puma,38931,29,27641.01,4.2,541,"Armstrong, Armstrong and Blake",24-04-2024,Shipped,Net Banking,Chennai,6
+ORD682,LED TV Philips,Beauty,Samsung,46083,7,42857.19,4.6,48,Burke PLC,07-02-2024,Returned,Credit Card,Chennai,4
+ORD683,Running Shoes Apple,Toys,Amazon Basics,45950,8,42274.0,2.2,580,Winters-Sullivan,15-10-2023,Cancelled,Debit Card,Mumbai,6
+ORD684,Laptop Revlon,Appliances,Lenovo,44850,8,41262.0,4.3,363,Paul PLC,02-09-2024,Returned,Amazon Pay,Hyderabad,6
+ORD685,Gaming Console Samsung,Electronics,Nike,15513,27,11324.49,4.4,275,Reed Group,24-08-2024,Shipped,Debit Card,Hyderabad,4
+ORD686,LED TV Samsung,Home Decor,Nike,44399,8,40847.08,2.4,1105,King-Henry,07-05-2023,Cancelled,Amazon Pay,Kolkata,7
+ORD687,Running Shoes Nike,Appliances,Revlon,47532,8,43729.44,4.7,547,Le-Phillips,22-01-2024,Shipped,Cash on Delivery,Mumbai,10
+ORD688,Gaming Console Lenovo,Fashion,Apple,46258,12,40707.04,4.2,226,Thompson Ltd,15-06-2024,Delivered,UPI,Ahmedabad,1
+ORD689,Smartphone Apple,Sports,Nike,38933,13,33871.71,4.3,257,"Guerra, Cooper and Walsh",03-09-2024,Returned,UPI,Delhi,7
+ORD690,Perfume Philips,Toys,Revlon,33771,41,19924.89,3.2,1469,Scott-Jones,18-08-2024,Processing,Amazon Pay,Pune,5
+ORD691,Smartphone Samsung,Grocery,Lenovo,43660,6,41040.4,4.4,906,Harris-Aguilar,15-09-2024,Returned,Cash on Delivery,Mumbai,3
+ORD692,Gaming Console Philips,Toys,Philips,49906,60,19962.4,2.9,1499,Reilly-Gonzalez,18-03-2024,Processing,Debit Card,Hyderabad,4
+ORD693,Washing Machine LG,Sports,Amazon Basics,23703,58,9955.26,3.7,470,Smith and Sons,20-04-2024,Shipped,Cash on Delivery,Kolkata,10
+ORD694,Running Shoes Samsung,Sports,Philips,22446,63,8305.02,3.4,671,Johnson PLC,01-01-2025,Returned,Cash on Delivery,Delhi,8
+ORD695,LED TV LG,Grocery,Lenovo,11231,51,5503.19,4.0,297,"Werner, Roy and Young",28-09-2023,Returned,Net Banking,Kolkata,10
+ORD696,Washing Machine Philips,Toys,Samsung,15840,52,7603.2,4.5,950,Cook and Sons,11-02-2024,Returned,Debit Card,Delhi,4
+ORD697,Running Shoes Lenovo,Electronics,Nike,9655,68,3089.6,3.5,47,Ramirez-Wood,18-01-2025,Processing,Net Banking,Lucknow,1
+ORD698,Smartphone Puma,Beauty,Lenovo,18490,11,16456.1,4.2,637,"Jones, King and Williams",29-03-2023,Processing,Cash on Delivery,Chennai,7
+ORD699,Perfume Nike,Beauty,Amazon Basics,26257,10,23631.3,4.5,183,Hudson PLC,05-08-2024,Processing,Net Banking,Delhi,4
+ORD700,Laptop LG,Sports,LG,42135,69,13061.85,2.2,842,Hickman Inc,23-09-2024,Shipped,Net Banking,Ahmedabad,7
+ORD701,Running Shoes LG,Beauty,Apple,17487,10,15738.3,3.4,982,"Coleman, Fernandez and Thompson",01-02-2025,Delivered,Credit Card,Kolkata,6
+ORD702,Smartphone Samsung,Books,Nike,33113,55,14900.85,2.1,764,Briggs-Morris,17-10-2023,Shipped,Debit Card,Chennai,8
+ORD703,Gaming Console Revlon,Books,Samsung,7386,23,5687.22,3.2,178,Adams-Ortiz,26-12-2024,Processing,Cash on Delivery,Lucknow,8
+ORD704,Perfume Apple,Grocery,Lenovo,14323,65,5013.05,4.3,175,Thomas-Daugherty,11-09-2024,Cancelled,Debit Card,Chennai,4
+ORD705,Washing Machine Nike,Fashion,Puma,31096,65,10883.6,4.1,393,Jones-Ryan,07-04-2024,Shipped,Debit Card,Ahmedabad,10
+ORD706,Smartphone Revlon,Fashion,Philips,21905,40,13143.0,4.4,197,Tran Group,03-05-2024,Returned,Credit Card,Bangalore,9
+ORD707,Perfume Apple,Home Decor,Philips,2885,12,2538.8,2.7,91,Thompson-Mcclure,02-03-2023,Processing,Credit Card,Delhi,9
+ORD708,Perfume Nike,Beauty,Amazon Basics,23947,56,10536.68,4.4,357,"Rodgers, Collins and Stanley",16-06-2023,Shipped,Cash on Delivery,Mumbai,7
+ORD709,Laptop Amazon Basics,Books,Puma,41463,36,26536.32,2.1,986,Anderson-Evans,04-04-2024,Returned,Amazon Pay,Lucknow,10
+ORD710,Washing Machine LG,Grocery,Adidas,1572,19,1273.32,4.3,1325,Ramos Group,27-01-2024,Shipped,Amazon Pay,Bangalore,8
+ORD711,Running Shoes Nike,Home Decor,LG,34922,64,12571.92,3.0,1159,"Baker, Smith and Silva",11-03-2023,Processing,Amazon Pay,Lucknow,2
+ORD712,Perfume Adidas,Sports,Revlon,13087,30,9160.9,2.6,1277,"Daniels, White and Walls",21-11-2023,Shipped,Net Banking,Chennai,9
+ORD713,Smartphone Philips,Sports,Puma,37233,64,13403.88,3.3,830,Farrell Ltd,29-04-2023,Returned,Credit Card,Mumbai,8
+ORD714,Laptop Adidas,Toys,Adidas,16686,50,8343.0,2.7,1208,"Beck, Cooper and Walsh",06-05-2024,Returned,Credit Card,Bangalore,3
+ORD715,LED TV Adidas,Sports,Nike,47242,68,15117.44,2.7,854,Jones-Patterson,25-03-2023,Delivered,Debit Card,Kolkata,9
+ORD716,Perfume Nike,Beauty,Revlon,17399,18,14267.18,3.0,226,Stanley-Perez,27-09-2023,Cancelled,Debit Card,Hyderabad,7
+ORD717,Running Shoes Puma,Electronics,Philips,10194,57,4383.42,3.7,1206,Franklin Ltd,01-07-2023,Shipped,Debit Card,Delhi,10
+ORD718,Laptop Samsung,Appliances,LG,6833,50,3416.5,3.7,439,Zimmerman PLC,10-12-2024,Processing,Cash on Delivery,Chennai,8
+ORD719,Smartphone Nike,Sports,Lenovo,13080,67,4316.4,4.7,1111,"Stewart, Reeves and Johnson",28-11-2023,Processing,Cash on Delivery,Hyderabad,3
+ORD720,Gaming Console Philips,Grocery,LG,22084,38,13692.08,3.0,903,Miller-Martin,09-10-2023,Processing,Debit Card,Delhi,9
+ORD721,Running Shoes Revlon,Toys,Apple,34482,55,15516.9,4.9,630,Frye LLC,08-04-2023,Shipped,Credit Card,Pune,10
+ORD722,LED TV Amazon Basics,Books,Apple,44971,25,33728.25,4.3,352,Grant-Buchanan,12-10-2024,Returned,Cash on Delivery,Mumbai,4
+ORD723,Gaming Console Puma,Grocery,Nike,23276,17,19319.08,2.9,557,Lopez-Rodriguez,10-10-2024,Shipped,Cash on Delivery,Ahmedabad,8
+ORD724,Washing Machine Lenovo,Home Decor,Samsung,15612,6,14675.28,3.5,129,Smith Group,11-01-2025,Returned,Debit Card,Mumbai,10
+ORD725,Smartphone Revlon,Fashion,LG,12009,29,8526.39,2.3,1135,Bennett-Crane,29-12-2024,Processing,UPI,Pune,4
+ORD726,LED TV Samsung,Home Decor,Puma,10837,65,3792.95,3.6,1348,Wilson LLC,20-07-2023,Cancelled,UPI,Mumbai,8
+ORD727,Perfume Philips,Grocery,Amazon Basics,8945,43,5098.65,2.8,313,Acevedo Group,21-02-2025,Cancelled,Amazon Pay,Pune,8
+ORD728,Laptop Samsung,Appliances,Amazon Basics,17171,54,7898.66,4.2,1328,Alvarez-Robinson,25-01-2025,Delivered,Amazon Pay,Mumbai,2
+ORD729,Perfume Nike,Grocery,Revlon,42060,23,32386.2,3.8,533,Koch-Rodriguez,06-11-2023,Returned,Credit Card,Mumbai,3
+ORD730,Laptop Samsung,Toys,Revlon,3540,69,1097.4,2.1,932,"Norman, Gross and Melton",30-11-2024,Processing,Amazon Pay,Pune,9
+ORD731,Laptop Apple,Home Decor,Adidas,44454,64,16003.44,4.5,193,Jordan Ltd,07-06-2024,Cancelled,Amazon Pay,Mumbai,4
+ORD732,Smartphone Adidas,Sports,Nike,17364,65,6077.4,2.4,722,Carter-Smith,12-06-2023,Cancelled,Credit Card,Hyderabad,5
+ORD733,Gaming Console Revlon,Appliances,Revlon,7442,11,6623.38,2.3,927,Skinner-Burton,11-11-2024,Processing,Debit Card,Kolkata,5
+ORD734,Gaming Console Lenovo,Grocery,LG,14148,43,8064.36,4.0,845,"Clark, Clark and Lee",27-08-2024,Cancelled,Cash on Delivery,Kolkata,9
+ORD735,Washing Machine Apple,Electronics,Puma,10454,57,4495.22,2.9,1375,Butler-Buchanan,27-01-2025,Delivered,Amazon Pay,Jaipur,2
+ORD736,Perfume Amazon Basics,Books,Lenovo,37401,60,14960.4,3.2,77,Chan-Nelson,12-05-2024,Processing,Debit Card,Bangalore,3
+ORD737,Running Shoes Apple,Electronics,Samsung,26589,55,11965.05,3.0,1192,"Conner, Alexander and Floyd",20-04-2023,Processing,Debit Card,Mumbai,1
+ORD738,LED TV Amazon Basics,Fashion,Adidas,33523,39,20449.03,4.6,865,Giles-Jackson,30-04-2023,Cancelled,UPI,Hyderabad,7
+ORD739,Smartphone Philips,Appliances,Philips,2773,18,2273.86,4.4,1266,"Gallegos, Wade and Palmer",30-09-2023,Returned,Debit Card,Mumbai,5
+ORD740,Running Shoes Revlon,Grocery,Samsung,3030,58,1272.6,4.5,945,Mendez-Wright,14-11-2024,Processing,Amazon Pay,Ahmedabad,9
+ORD741,LED TV Revlon,Appliances,Samsung,6179,27,4510.67,4.8,647,Graves Group,25-06-2024,Processing,Debit Card,Lucknow,6
+ORD742,Laptop Philips,Beauty,Revlon,10993,53,5166.71,2.6,924,Carlson Group,16-05-2023,Cancelled,Amazon Pay,Hyderabad,7
+ORD743,Laptop Amazon Basics,Fashion,Adidas,10634,23,8188.18,2.9,1128,"Robinson, Rivera and Martin",27-03-2023,Processing,Debit Card,Chennai,6
+ORD744,Perfume Nike,Electronics,Adidas,17898,8,16466.16,3.7,999,Cruz Inc,28-01-2025,Cancelled,UPI,Hyderabad,10
+ORD745,Smartphone Nike,Toys,Adidas,28034,55,12615.3,4.5,1371,"Peters, Jackson and Mcgee",11-03-2024,Delivered,Net Banking,Mumbai,2
+ORD746,Washing Machine Adidas,Beauty,Revlon,7016,53,3297.52,4.9,338,King Group,30-09-2024,Processing,Amazon Pay,Hyderabad,1
+ORD747,Smartphone Samsung,Beauty,Puma,17605,13,15316.35,3.7,984,"Porter, Hernandez and Key",30-11-2024,Shipped,Cash on Delivery,Chennai,4
+ORD748,Running Shoes Apple,Fashion,Revlon,36215,7,33679.95,2.1,317,"Carter, Taylor and Schwartz",24-06-2023,Delivered,Cash on Delivery,Chennai,1
+ORD749,Running Shoes Adidas,Grocery,Apple,49378,31,34070.82,2.1,1403,Boyer Ltd,22-12-2023,Cancelled,Net Banking,Pune,7
+ORD750,Washing Machine Nike,Toys,Samsung,5247,40,3148.2,2.9,663,Smith-Rowland,13-11-2024,Returned,Amazon Pay,Lucknow,6
+ORD751,Perfume Lenovo,Books,LG,24549,30,17184.3,2.2,199,"Vaughan, Rose and Tyler",03-01-2025,Processing,Amazon Pay,Jaipur,1
+ORD752,Laptop Lenovo,Appliances,Lenovo,8752,69,2713.12,2.4,328,"Moore, Matthews and Lopez",19-12-2023,Shipped,Cash on Delivery,Delhi,3
+ORD753,Running Shoes Samsung,Beauty,Nike,18742,64,6747.12,3.8,639,Garcia-Jones,10-02-2024,Shipped,Amazon Pay,Chennai,1
+ORD754,Smartphone Samsung,Fashion,Adidas,9766,59,4004.06,4.7,513,Sanchez-Kelly,04-02-2024,Returned,Cash on Delivery,Kolkata,3
+ORD755,Washing Machine Adidas,Sports,Adidas,24321,25,18240.75,3.9,1013,"Lin, Moore and Lee",03-06-2024,Cancelled,Net Banking,Mumbai,4
+ORD756,Running Shoes Adidas,Fashion,Puma,27864,28,20062.08,4.4,458,"Harris, Morris and Torres",08-12-2023,Returned,Net Banking,Hyderabad,9
+ORD757,LED TV Samsung,Toys,Apple,46299,15,39354.15,4.4,397,Booker Ltd,23-03-2024,Returned,Credit Card,Hyderabad,9
+ORD758,Running Shoes LG,Electronics,Adidas,30864,58,12962.88,4.9,913,Baldwin-Price,10-08-2024,Cancelled,UPI,Mumbai,3
+ORD759,Washing Machine Revlon,Fashion,Revlon,36101,16,30324.84,3.1,63,"Haynes, Olson and Guerra",04-07-2023,Processing,Amazon Pay,Hyderabad,1
+ORD760,LED TV Nike,Electronics,Puma,15448,51,7569.52,4.8,969,Johnson-Murphy,10-11-2023,Processing,UPI,Jaipur,2
+ORD761,Running Shoes Adidas,Grocery,Adidas,38261,11,34052.29,2.7,1499,Russell-Burke,24-05-2024,Cancelled,Amazon Pay,Pune,3
+ORD762,Smartphone Adidas,Fashion,Samsung,45302,47,24010.06,2.9,404,"Carlson, Mendez and Anderson",26-08-2023,Returned,Credit Card,Hyderabad,1
+ORD763,Smartphone Philips,Beauty,Puma,25050,64,9018.0,2.5,1236,Clayton-Oconnor,21-12-2023,Processing,Amazon Pay,Chennai,8
+ORD764,LED TV Puma,Beauty,Adidas,11475,15,9753.75,4.6,1326,Flores LLC,21-09-2023,Processing,Net Banking,Lucknow,6
+ORD765,Running Shoes Amazon Basics,Appliances,Nike,27494,40,16496.4,3.2,993,Johnson-Green,22-02-2024,Delivered,Credit Card,Chennai,7
+ORD766,LED TV Amazon Basics,Home Decor,Apple,41275,56,18161.0,3.1,457,Harris-Mcpherson,19-09-2023,Delivered,Debit Card,Bangalore,9
+ORD767,Running Shoes Amazon Basics,Books,Lenovo,8364,9,7611.24,3.7,1372,Wade-Smith,01-12-2023,Shipped,Net Banking,Pune,7
+ORD768,Gaming Console LG,Grocery,LG,3717,25,2787.75,3.5,1031,Johnson-King,20-11-2023,Delivered,Amazon Pay,Bangalore,3
+ORD769,Smartphone Adidas,Beauty,Revlon,21634,57,9302.62,2.5,477,"Lyons, Pugh and Ellis",18-09-2023,Shipped,Amazon Pay,Ahmedabad,9
+ORD770,Perfume Lenovo,Fashion,LG,16358,23,12595.66,3.4,1069,"Burnett, Anderson and Potter",17-01-2025,Returned,Net Banking,Pune,9
+ORD771,Gaming Console Revlon,Beauty,Apple,21177,58,8894.34,4.6,462,"Bishop, Haney and Porter",03-06-2024,Returned,Amazon Pay,Delhi,7
+ORD772,Perfume Adidas,Beauty,Adidas,13554,18,11114.28,3.1,536,"Little, Scott and Brown",06-08-2023,Returned,Cash on Delivery,Chennai,7
+ORD773,Smartphone Revlon,Sports,LG,5829,42,3380.82,4.0,1129,Ford Ltd,30-10-2023,Processing,Amazon Pay,Mumbai,10
+ORD774,Perfume LG,Fashion,Revlon,3927,28,2827.44,4.1,1029,Harris-Webb,30-10-2024,Processing,UPI,Ahmedabad,5
+ORD775,Running Shoes Adidas,Home Decor,Nike,8884,17,7373.72,2.1,1499,"Arnold, Nelson and Rivera",27-09-2024,Processing,Credit Card,Hyderabad,6
+ORD776,Gaming Console Lenovo,Home Decor,LG,7593,35,4935.45,4.2,1219,Harper Ltd,11-12-2023,Delivered,Net Banking,Pune,7
+ORD777,Laptop Philips,Beauty,Samsung,5985,6,5625.9,5.0,954,Sullivan and Sons,27-09-2023,Delivered,Debit Card,Bangalore,4
+ORD778,Running Shoes Amazon Basics,Books,Puma,45740,68,14636.8,4.9,70,Wright LLC,14-06-2023,Delivered,Credit Card,Ahmedabad,3
+ORD779,Laptop Philips,Books,Puma,22125,35,14381.25,4.0,916,"Hughes, Moore and Christensen",23-10-2023,Cancelled,UPI,Pune,6
+ORD780,Smartphone Adidas,Electronics,Apple,33808,22,26370.24,3.8,705,"Warren, Stokes and Young",11-06-2024,Cancelled,Net Banking,Jaipur,2
+ORD781,Perfume LG,Electronics,Nike,26363,47,13972.39,3.2,872,"Stevenson, Bates and Li",28-11-2023,Cancelled,Amazon Pay,Hyderabad,8
+ORD782,Washing Machine Samsung,Appliances,Puma,19824,69,6145.44,3.7,1243,Collins-Jenkins,15-07-2024,Delivered,Credit Card,Ahmedabad,9
+ORD783,Laptop Nike,Appliances,Philips,16316,7,15173.88,4.1,944,"Harper, Heath and Novak",15-03-2023,Cancelled,Net Banking,Pune,1
+ORD784,Washing Machine Lenovo,Beauty,Samsung,14695,62,5584.1,3.1,785,Thompson LLC,23-01-2024,Delivered,Amazon Pay,Chennai,10
+ORD785,Laptop Samsung,Home Decor,Lenovo,14831,8,13644.52,4.4,117,Hamilton-Smith,15-03-2023,Returned,UPI,Hyderabad,3
+ORD786,Washing Machine Lenovo,Fashion,Apple,4300,55,1935.0,2.3,79,Barnes-Prince,11-09-2023,Processing,Debit Card,Jaipur,6
+ORD787,Smartphone Lenovo,Electronics,Lenovo,32592,20,26073.6,2.9,847,"Blackburn, Turner and Leon",23-08-2023,Delivered,Credit Card,Kolkata,4
+ORD788,Washing Machine Revlon,Toys,Apple,11006,39,6713.66,5.0,583,Alexander-Richardson,20-06-2024,Delivered,Credit Card,Chennai,9
+ORD789,Laptop Puma,Toys,Samsung,36257,67,11964.81,4.3,913,"Anderson, Castillo and Welch",10-12-2023,Returned,Cash on Delivery,Hyderabad,10
+ORD790,Perfume Lenovo,Appliances,LG,37800,20,30240.0,4.6,650,Gonzalez Group,26-02-2024,Cancelled,Cash on Delivery,Ahmedabad,1
+ORD791,Washing Machine LG,Appliances,Apple,38619,44,21626.64,3.0,430,Moreno-White,05-12-2023,Returned,Debit Card,Lucknow,10
+ORD792,Gaming Console Samsung,Home Decor,Adidas,30297,21,23934.63,2.9,565,Fuller-West,25-07-2023,Shipped,Amazon Pay,Pune,1
+ORD793,Gaming Console Samsung,Appliances,Adidas,5219,63,1931.03,4.4,864,"Steele, Ellis and Baker",29-10-2023,Shipped,Credit Card,Chennai,7
+ORD794,LED TV Puma,Sports,Nike,37232,56,16382.08,4.0,754,Schneider Inc,26-10-2023,Shipped,Net Banking,Pune,7
+ORD795,Gaming Console Philips,Beauty,Apple,44491,57,19131.13,4.5,108,Carter-Patel,08-08-2023,Delivered,Debit Card,Delhi,1
+ORD796,Laptop Philips,Sports,LG,40858,32,27783.44,2.5,591,"Hamilton, Smith and Holland",05-04-2024,Shipped,Amazon Pay,Hyderabad,4
+ORD797,Gaming Console Adidas,Electronics,Puma,16046,6,15083.24,2.0,629,"Fleming, Alexander and Lopez",04-12-2023,Shipped,Net Banking,Kolkata,7
+ORD798,Smartphone Revlon,Appliances,LG,7303,67,2409.99,2.6,446,Sharp PLC,27-09-2023,Shipped,UPI,Mumbai,2
+ORD799,LED TV Nike,Grocery,Samsung,38063,19,30831.03,4.8,1455,Schroeder-Gomez,13-03-2023,Returned,Debit Card,Pune,4
+ORD800,Laptop Lenovo,Electronics,Adidas,3856,70,1156.8,4.7,911,"Ortiz, Rodriguez and Jones",30-11-2024,Processing,UPI,Jaipur,4
